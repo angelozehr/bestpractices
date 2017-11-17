@@ -1,0 +1,22 @@
+{
+  "name": "bestpractices",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "glamor": "^2.20.40",
+    "marked": "^0.3.6",
+    "normalize-css": "^2.3.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-images": "^0.5.11",
+    "react-scripts": "1.0.17",
+    "standard": "^10.0.3",
+    "throttle-debounce": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
