@@ -1,1755 +1,1755 @@
 [{
-	"class": "do",
-	"tags": [
-	  "Daten offenlegen",
-	  "linear",
-	  "schönes Detail",
-	  "sauber"
-	],
-	"images": [
-	  "14-02-2017 15-37-14.jpg",
-	  "14-02-2017 15-40-50.jpg"
-	],
-	"title": "Airbnb vs. Berlin",
-	"description": "Ausführliche Geschichte, monothematisch, linear erzählt.",
-	"url": "http://www.airbnbvsberlin.de/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Annotations",
-	  "Begriffserklärung",
-	  "Zweigeteilt",
-	  "multisite"
-	],
-	"images": [
-	  "14-02-2017 15-46-50.jpg",
-	  "14-02-2017 15-48-45.jpg"
-	],
-	"title": "Dekoder – Russland entschlüsseln",
-	"description": "Das Linien-Diagramm wird an einigen Schlüsselstellen sehr detailliert erklärt. Begriffe werden bei Interesse in einem Text werden in der rechten Hälfte, einem wiederum ausgewachsenen Text erklärt.",
-	"url": "http://www.dekoder.org/de/article/infografik-verhaeltnis-usa-umfrage"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "schönes Detail",
-	  "Scrollitelling",
-	  "Gute Farbwahl",
-	  "small multicles",
-	  "navigation"
-	],
-	"images": [
-	  "14-02-2017 15-52-39.jpg",
-	  "14-02-2017 15-54-29.jpg",
-	  "14-02-2017 15-55-30.jpg"
-	],
-	"title": "Geld zieht Ärzte an",
-	"description": "Durch Scrollen wird eine Karte laufend ergänzt. Datensätze sind mit einem Miniatur angedeutet und im selben Feld ansteuerbar. Die rechte und linke Hälfte sind verknüpft. Hover, Click etc. werden auf der Karte und im Chart angezeigt.",
-	"url": "http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "stepper",
-	  "aufbauend",
-	  "Video",
-	  "schönes Detail",
-	  "Scrollitelling",
-	  "small interactives",
-	  "Gute Farbwahl",
-	  "Kapitel"
-	],
-	"images": [
-	  "14-02-2017 16-06-54.jpg",
-	  "14-02-2017 16-05-08.jpg",
-	  "14-02-2017 16-03-24.jpg"
-	],
-	"title": "Falciani's SwissLeaks – The Great Bank Data Robbery",
-	"description": "Für mich zu überfrachtet, zu aufbauend, aber teilweise interessante Details. Der User interagiert immer wieder mit der Story.",
-	"url": "http://falciani-info.arte.tv/#/chapter/1"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "CSS Video",
-	  "Episoden",
-	  "Interaktives Video"
-	],
-	"images": [
-	  "14-02-2017 16-19-49.jpg"
-	],
-	"title": "Do not Track",
-	"description": "Absolut crazy, riesig. Komplex, geil. Too much. Can't breathe.",
-	"url": "https://episode5.donottrack-doc.com/de"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Annotations",
-	  "Gute Farbwahl",
-	  "Schöne Details",
-	  "Gut Strukturiert"
-	],
-	"images": [
-	  "14-02-2017 16-23-25.jpg",
-	  "14-02-2017 16-22-58.jpg",
-	  "14-02-2017 16-25-33.jpg",
-	  "14-02-2017 16-27-05.jpg",
-	  "14-02-2017 16-29-56.jpg"
-	],
-	"title": "Wo Deutschland rechts wählt",
-	"description": "Schöne Erkärung für Farben, schön strukturiert (z.B. Thesen)",
-	"url": "https://interaktiv.morgenpost.de/wo-deutschland-rechts-waehlt/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Grosszügig"
-	],
-	"images": [
-	  "14-02-2017 16-31-02.jpg",
-	  "14-02-2017 16-31-39.jpg",
-	  "14-02-2017 16-32-43.jpg"
-	],
-	"title": "Babys in Berlin",
-	"description": "Beeindruckend gestaltet, z.B. sehr ausführliche Tooltips",
-	"url": "https://interaktiv.morgenpost.de/babys-in-berlin/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Zeitlicher Verlauf",
-	  "Animation",
-	  "Route"
-	],
-	"images": [
-	  "14-02-2017 16-34-40.jpg"
-	],
-	"title": "So schnell läuft Ihre Stadt",
-	"description": "Ein Video einer Strecke auf einer Karte von here und auch sonst witzig gemacht.",
-	"url": "http://interaktiv.morgenpost.de/berlin-marathon-2016/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schwierige Daten"
-	],
-	"images": [
-	  "14-02-2017 16-37-37.jpg"
-	],
-	"title": "Wählerwanderung",
-	"description": "Schwieriges Thema, das beste rausgeholt.",
-	"url": "http://interaktiv.morgenpost.de/waehlerwanderung-berlin-2016/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schlaue Navigation",
-	  "Schönes Detail"
-	],
-	"images": [
-	  "14-02-2017 16-43-58.jpg",
-	  "14-02-2017 16-45-03.jpg"
-	],
-	"title": "Berlins Buslinie der grossen Unterschiede",
-	"description": "Vorbildlicher Umgang mit Lücken, perfekte Navigation für dieses Thema, spannender Ansatz, gut umgesetzt.",
-	"url": "http://interaktiv.morgenpost.de/m29/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Annotations",
-	  "Schönes Detail",
-	  "Einfach",
-	  "Superverständlich"
-	],
-	"images": [
-	  "14-02-2017 16-46-48.jpg"
-	],
-	"title": "Umzüge in Berlin",
-	"description": "Einfach, aber absolut verständlich. Die einfachste Infografik der Welt.",
-	"url": "http://interaktiv.morgenpost.de/umzuege-in-berlin/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schwierige Daten",
-	  "Schönes Detail",
-	  "Small Multicles"
-	],
-	"images": [
-	  "14-02-2017 16-53-38.jpg"
-	],
-	"title": "How Beyoncé Could Make Grammy History Tonight",
-	"description": "Viele Daten, trotzdem anmächelig.",
-	"url": "https://www.nytimes.com/interactive/2017/02/12/arts/music/how-beyonce-could-make-grammy-history.html?smid=pl-share"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Richtige Form"
-	],
-	"images": [
-	  "14-02-2017 16-55-46.jpg"
-	],
-	"title": "Trump’s Cabinet Picks Have Faced Record-Setting Opposition",
-	"description": "Perfekt Umsetzung des Themas, nichts kompliziertes, schnell verständlich.",
-	"url": "https://www.nytimes.com/interactive/2017/02/09/us/politics/trump-cabinet-opposition.html?smid=pl-share"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schönes Detail"
-	],
-	"images": [
-	  "14-02-2017 17-03-53.jpg"
-	],
-	"title": "How Each Senator Voted on Trump’s Cabinet and Administration Nominees",
-	"description": "Einfache Datengrundlage, perfekt umgesetzt.",
-	"url": "https://www.nytimes.com/interactive/2017/01/31/us/politics/trump-cabinet-confirmation-votes.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Strukturierte Daten",
-	  "Update",
-	  "Small Interactives"
-	],
-	"images": [
-	  "14-02-2017 17-08-03.jpg"
-	],
-	"title": "Ist der BER schon fertig?",
-	"description": "Cooler Umgang mit strukturierten Daten, wird laufend aktualisiert, ist ständig aktuell und fundiert. Beste Anlaufstelle.",
-	"url": "http://www.istderberschonfertig.de/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Separieren",
-	  "Einfach",
-	  "Verständlich"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-02-14 um 17.49.41.png"
-	],
-	"title": "Trumps Popularitätsproblem in 5 Grafiken",
-	"description": "Statt zu viel eine Grafik packen zu wollen: Mach mehrere draus.",
-	"url": "https://www.nzz.ch/international/polarisierung-in-den-usa-trumps-popularitaetsproblem-in-5-grafiken-ld.143821"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Small multicles",
-	  "Layout"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-02-14 um 17.55.46.png"
-	],
-	"title": "Wie Vornamen die Schweiz erobern und wieder verschwinden",
-	"description": "Gut gemacht: Platz links und rechts vom Text ausgenutzt. Small multicles sind ausserdem besser erfassbar als eine animierte Grafik. Inhaltlich aus meiner Sicht nicht sehr spannend.",
-	"url": "https://www.nzz.ch/panorama/namentrends-wie-vornamen-die-schweiz-erobern-und-wieder-verschwinden-ld.111687"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schönes Detail",
-	  "Verständlich"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-02-14 um 17.58.30.png"
-	],
-	"title": "Die zehn wichtigsten Fakten zum NZZ-Rating",
-	"description": "Die Pfeile machen die Zeit-Ebene sehr schnell klar und die Annotationen links und rechts helfen, die X-Achse zu verstehen.",
-	"url": "https://www.nzz.ch/schweiz/parlamentarierrating-2016/parlamentarier-rating-die-zehn-wichtigsten-fakten-zum-grossen-nzz-rating-ld.130389"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Sinnvolle Standards"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-02-14 um 18.03.00.png"
-	],
-	"title": "Linke und rechte Einzelkämpfer",
-	"description": "Eine alphabetische Sortierung als Standard macht hier wenig Sinn. Die Sortierung nach links/rechts ist viel spannender und sollte von Anfang an konfiguriert sein.",
-	"url": "https://www.nzz.ch/schweiz/parlamentarierrating-2016/parlamentarierrating-staenderat-ld.130383"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Usability",
-	  "Kontrolle"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-02-14 um 18.05.53.png"
-	],
-	"title": "Der Weg zu Titel Nummer 18 in einer Grafik",
-	"description": "Nimm dem Benutzer nie die Kontrolle weg. Animationen und deren Geschwindigkeit müssen vom User definiert werden können.",
-	"url": "https://www.nzz.ch/sport/tennis/roger-federer-der-weg-zu-titel-nummer-18-in-einer-grafik-ld.142428"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Annotations"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-02-14 um 18.22.40.png",
-	  "5P4sZOlnxf.gif"
-	],
-	"title": "Bloombergs Billionaires",
-	"description": "In vier verschiedenen Ansicht kann man sich durch die Detaillierten Daten suchen. Die Darstellung ist verspielt, aber cool. Beim Darüberfahren werden ohne jegliche Bewegung die Zahlen anstelle der Balken dargestellt. Eine schöne Lösung.",
-	"url": "https://www.bloomberg.com/billionaires/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Highlight",
-	  "Individualisierung"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-02-14 um 18.28.19.png"
-	],
-	"title": "",
-	"description": "Aufgrund der GPS-Position wird das Herkunftsland des Benutzers vorselektiert und herausgehoben.",
-	"url": "https://www.bloomberg.com/graphics/gas-prices/#20164:Switzerland:USD:g"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Karte",
-	  "Mapbox"
-	],
-	"images": [
-	  "16-02-2017 12-05-33.jpg"
-	],
-	"title": "NYC Citi Bike",
-	"description": "Eine simple Karte, die sehr gut ein positives und negatives Saldo auf Strassen visualisiert.",
-	"url": "http://urbica.co/citibike/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Animation",
-	  "Karte",
-	  "Leaflet"
-	],
-	"images": [
-	  "16-02-2017 12-11-55.jpg"
-	],
-	"title": "Spies in the skies",
-	"description": "Optisch zwar nicht ganz einfach, aber klar in der Aussage: Das ist viel! Die Karte verändert sich anhand einer Timeline. Sehr gut gemacht.",
-	"url": "https://www.buzzfeed.com/peteraldhous/spies-in-the-skies"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktion",
-	  "Exploration",
-	  "Innovativer Inhalt"
-	],
-	"images": [
-	  "24-02-2017 10-25-54.jpg",
-	  "small_multiple_geo.jpg"
-	],
-	"title": "Slang Words",
-	"description": "Eine Reihe von Begriffen kann ein- und ausgeblendet werden. Die Annotationen sind vorbildlich.",
-	"url": "https://pudding.cool/2017/02/new-slang/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "02-03-2017 12-48-49.jpg",
-	  "Bildschirmfoto 2017-03-02 um 13.01.19.png"
-	],
-	"title": "SRF Abstimmungen",
-	"description": "Dies wäre ein klassischer Fall für eine 'divering color scale'. Die leuchtend rote Farbe bei einem Wert von 50.2% ist sehr irrefürend.",
-	"url": "https://www.srf.ch/news/schweiz/abstimmungen/abstimmungen/einbuergerung"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Annotations",
-	  "Scrollitelling",
-	  "Komplex"
-	],
-	"images": [
-	  "20-09-2017 10-46-33.png",
-	  "07-03-2017 16-14-00.png"
-	],
-	"title": "How the Recession Reshaped the Economy, in 255 Charts",
-	"description": "Extrem detaillierte, aber in Schritten aufgearbeitete grosse Scroll-Grafik. Sogar das Tooltip ist super-detailliert. Die heftigste Arbeitsmarktstatistik ever.",
-	"url": "https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Kopie",
-	  "Interaktion",
-	  "Innovativ"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-03 um 16.10.26.png"
-	],
-	"title": "Copy good stuff",
-	"description": "Das ist die exakte Kopie der [New York Times](https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html), aber egal. Es ist grossartig!",
-	"url": "http://www.lemonde.fr/les-decodeurs/article/2017/02/16/chomage-deficit-pib-dessinez-vous-meme-le-bilan-de-francois-hollande-en-9-graphiques_5080553_4355770.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Ungewöhnliche Darstellung",
-	  "Interaktiv",
-	  "Krativ"
-	],
-	"images": [
-	  "07-03-2017 14-39-34.png"
-	],
-	"title": "Where We Came From and Where We Went, State by State",
-	"description": "Wer ist wann von wo nach wo gezogen. Witzige Darstellung für sehr komplexe Daten. Gute historische Übersicht.",
-	"url": "https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?_r=0"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Komplex",
-	  "Tooltip",
-	  "Scrollitelling"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-08 um 08.09.28.png"
-	],
-	"title": "An interactive Visualisation of Every Line in Hamilton",
-	"description": "Verrückt und leicht überfordernd. Eine Visualisierung auf Speed, aber schön umgesetzt und mit netten Details wie einem schönem Tooltip und einem guten Highlight-by-scroll.",
-	"url": "http://polygraph.cool/hamilton/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Dashboard",
-	  "Innovativ",
-	  "Komplex"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-09 um 11.33.20.png",
-	  "Bildschirmfoto 2017-03-09 um 11.34.03.png",
-	  "Bildschirmfoto 2017-03-09 um 11.34.10.png"
-	],
-	"title": "Dashboard Migration",
-	"description": "Sankey Diagramme sind immer nur eine Notlösung. Dieses gefällt mir aber verhältnismässig gut. Die Farbwahl und die Annotationen machen es deutlich besser lesbar.",
-	"url": "http://openmigration.org/en/dashboard/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Innovativ"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-09 um 11.35.54.png"
-	],
-	"title": "Dashboard Migration",
-	"description": "Sowas hab ich bisher noch nie gesehen. Ich weiss nicht, ob ich es gut finde, aber es ist spannend.",
-	"url": "http://openmigration.org/en/dashboard/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Annotation"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-09 um 11.55.55.png"
-	],
-	"title": "Weniger Asylbewerber in Berlin als vor der Flüchtlingskrise",
-	"description": "Ist das die schönste Annotation ever?",
-	"url": "http://interaktiv.morgenpost.de/woher-berlins-fluechtlinge-kommen/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-09 um 11.59.09.png"
-	],
-	"title": "Es brennt in Deutschland",
-	"description": "Gelungene Farbwahl: Mehr ist schlechter, folglich grau zu rot. Man hätte auch mal versuchen können, die Balken ohne Verlauf einfach einzufärben.",
-	"url": "http://www.zeit.de/politik/deutschland/2015-11/rechtsextremismus-fluechtlingsunterkuenfte-gewalt-gegen-fluechtlinge-justiz-taeter-urteile"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Schönes Detail"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-09 um 12.11.11.png",
-	  "Bildschirmfoto 2017-03-09 um 12.15.10.png"
-	],
-	"title": "Where the 1,854 Syrian Refugees Admitted to the U.S. Since 2012 Were Placed",
-	"description": "Ich finde die Farben gut gewählt. Die Grösse der Kreise finde ich ebenfalls spannend dargestellt. Nämlich halbtransparent. Das macht die ganze Darstellung deutlich leichter. Das Balkendiagramm ist sanft unterteilt. Das macht die Daten schneller lesbar.",
-	"url": "https://www.nytimes.com/interactive/2015/10/21/us/where-syrian-refugees-are-in-the-united-states.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schönes Detail",
-	  "Tooltip",
-	  "Interaktion"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-09 um 12.17.00.png",
-	  "Bildschirmfoto 2017-03-09 um 12.19.22.png"
-	],
-	"title": "Wo Deutschland Flüchtlinge aufnimmt",
-	"description": "Das Sankey Diagramm sortiert sich neu nachdem man auf eine Quelle geklickt hat. Macht das ganze deutlich besser lesbar. Das Tooltip und das bei der Karte finde ich ausserdem sehr gelungen.",
-	"url": "http://interaktiv.morgenpost.de/fluechtlinge-in-deutschland/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Chord",
-	  "Missverständlich"
-	],
-	"images": [
-	  "09-03-2017 17-04-44.png"
-	],
-	"title": "Setzt die Schweiz das Dublin-Abkommen zu rigoros um?",
-	"description": "Superwichtige Geschichte, aber dieses Chord Diagramm ist leider grauenhaft lesbar. Wer macht wieviel wohin?",
-	"url": "http://www.swissinfo.ch/ger/migrationspolitik_setzt-die-schweiz-das-dublin-abkommen-zu-rigoros-um-/42948674"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Grosse Zahlen",
-	  "Stepper"
-	],
-	"images": [
-	  "13-03-2017 10-12-02.png"
-	],
-	"title": "Gun Deaths",
-	"description": "Wie visualisiert man grosse Zahlen eindrücklich? So.",
-	"url": "https://fivethirtyeight.com/features/gun-deaths/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktion"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-03-31 um 15.06.22.png",
-	  "Bildschirmfoto 2017-03-31 um 15.06.36.png",
-	  "Bildschirmfoto 2017-03-31 um 15.06.52.png"
-	],
-	"title": "You Draw It: How Family Income – Predicts Children’s College Chances",
-	"description": "Cooles interaktives Stück, wo mit Erwartungen gespielt und diese dann aufgelöst werden. Ergebnisse sind eher erwartbar, aber gut umgesetzt.",
-	"url": "https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "linear",
-	  "Storytelling",
-	  "nachhaltig"
-	],
-	"images": [
-	  "24-04-2017 08-53-50.png",
-	  "24-04-2017 08-54-30.png"
-	],
-	"title": "Out of Sight, Out of Mind.",
-	"description": "In einer automatisch ablaufenden Animation werden alle Drohnen-Opfer in Pakistan visualisiert. Starkes Thema, stark umgesetzt.",
-	"url": "http://drones.pitchinteractive.com/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Karte",
-	  "Grosse Datenmenge",
-	  "linear"
-	],
-	"images": [
-	  "24-04-2017 09-27-40.png",
-	  "24-04-2017 09-24-26.png",
-	  "24-04-2017 09-24-18.png"
-	],
-	"title": "Ship Map",
-	"description": "Eine krass detaillierte Karte, die man auf verschiedene Arten und Weisen selbst untersuchen kann oder sich von einem Talkie durchführen lassen kann.",
-	"url": "https://www.shipmap.org/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "simpel",
-	  "Bild",
-	  "Detail"
-	],
-	"images": [
-	  "12-05-2017 16-05-49.png"
-	],
-	"title": "Let’s All Obsess Over This Intricate Map of Alt Music History",
-	"description": "Eine super Art, wie User ein einzelnes Bild erkunden können: Mit einer schön gelösten Lupe.",
-	"url": "https://www.wired.com/2016/10/lets-obsess-intricate-map-alt-music-history/?mbid=social_twitter"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "interessante Darstellung",
-	  "animation",
-	  "Scrollitelling"
-	],
-	"images": [
-	  "15-06-2017 09-12-10.png",
-	  "15-06-2017 09-12-31.png"
-	],
-	"title": "Fenced out",
-	"description": "Sehr video-lastiges Scrollitelling mit schönen grafischen Elementen.",
-	"url": "https://www.washingtonpost.com/graphics/world/border-barriers/global-illegal-immigration-prevention/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "interessante Darstellung"
-	],
-	"images": [
-	  "15-06-2017 09-22-33.png"
-	],
-	"title": "One Angry Bird",
-	"description": "Der Gefühlstzustand wird einerseits farblich, anererseits auf der y-Achse abgebildet, was zu interessanten Zeitverläufen führt. Die Darstellung ergibt eine schöne Form, die man so nich nie gesehen hat.",
-	"url": "http://emotions.periscopic.com/inauguration/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "interessante Darstellung",
-	  "Gute Farbwahl",
-	  "Algorithmus"
-	],
-	"images": [
-	  "15-06-2017 09-27-10.png",
-	  "15-06-2017 09-29-44.png"
-	],
-	"title": "Hamilton",
-	"description": "Ein Algorithmus untersucht Silben nach ihrem Laut und gruppiert und animiert sie nach Farbe und y-Position. Interessante Art, Sprache zu analysieren.",
-	"url": "http://graphics.wsj.com/hamilton/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schöne Karte",
-	  "Scrollitelling",
-	  "Zeitverlauf"
-	],
-	"images": [
-	  "15-06-2017 09-32-44.png",
-	  "15-06-2017 09-34-07.png"
-	],
-	"title": "Efforts to Rescue Migrants Caused Deadly, Unexpected Consequences",
-	"description": "Sehr detaillierte, schön gestaltete Karte. Drei aufeinanderfolgende Jahre erscheinen durch Scroll übereinander, wodurch man die Logik sehr gut versteht.",
-	"url": "https://www.nytimes.com/interactive/2017/06/14/world/europe/migrant-rescue-efforts-deadly.html?emc=edit_mbe_20170615&nl=morning-briefing-europe&nlid=79661173&te=1&_r=0"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "too much",
-	  "unlesbar",
-	  "überfordernd"
-	],
-	"images": [
-	  "15-06-2017 09-58-05.png"
-	],
-	"title": "Interactive map showing global refugees flows from 2000 to 2015",
-	"description": "Oh wow, wo soll ich starten?",
-	"url": "https://explorables.cmucreatelab.org/explorables/annual-refugees/examples/webgl-timemachine/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Animation"
-	],
-	"images": [
-	  "15-06-2017 10-15-20.png",
-	  "15-06-2017 10-17-23.png"
-	],
-	"title": "1,000 times gold",
-	"description": "Schöne Tooltips, nett animiert per Scroll.",
-	"url": "https://www.washingtonpost.com/graphics/sports/olympics/the-1000-medals-of-the-united-states/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktion",
-	  "Benutzerfreundlich"
-	],
-	"images": [
-	  "15-06-2017 10-31-42.png"
-	],
-	"title": "Crime in Context",
-	"description": "Positiv fällt mir die erste Grafik auf. Einerseits bietet es per Button einige sinnvolle Optionen, andererseits kann man selbst die gewünschte Statistik / den gewünschten Ort auswählen, die Grafik passt sich animiert an. Durch Klick auf die Grafik wiederum, kann man ebenfalls die Auswahl oben steuern.",
-	"url": "https://www.themarshallproject.org/2016/08/18/crime-in-context"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Aufbauend"
-	],
-	"images": [
-	  "26-06-2017 08-41-51.png",
-	  "26-06-2017 08-46-19.png"
-	],
-	"title": "The Platinum Patients",
-	"description": "Hervorragende Übergänge machen dieses Scrollitelling zu einem wahren Vorbild in dieser Kategorie.",
-	"url": "https://www.theatlantic.com/theplatinumpatients/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Muster",
-	  "R",
-	  "Non-Interactive"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-07-11 um 17.41.10.png"
-	],
-	"title": "Married People Have More Sex",
-	"description": "Eine durchaus schöne Art, Werte nebeneinander darzustellen und Tendenzen und Muster aufzuzeigen.",
-	"url": "http://flowingdata.com/2017/07/03/married-people-sex/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Kreis",
-	  "Non-Interactive",
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-07-11 um 17.46.10.png"
-	],
-	"title": "Why Are so Many Babies Born around 8:00 A.M.?",
-	"description": "Normale Balken- oder Liniendiagramme wären wohl verständlicher gewesen, aber die Anlehnung der Uhrzeit analog eines Stundenzeigers ist noch interessant.",
-	"url": "https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Gute Farbwahl",
-	  "Performant"
-	],
-	"images": [
-	  "11-07-2017 17-52-24.png",
-	  "11-07-2017 17-52-09.png",
-	  "11-07-2017 17-53-21.png"
-	],
-	"title": "Free Willy and Flipper by the Numbers",
-	"description": "Extrem schön erzähltes Scrollitelling, das einen stacked Barchart so animiert, dass man gut folgen kann. Selbst die interaktiven Charts sind extrem sauber gemacht.",
-	"url": "https://pudding.cool/2017/07/cetaceans/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Grosse Datenmenge",
-	  "Schönes Tooltip",
-	  "Durchsuchbar"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-07-12 um 17.24.01.png",
-	  "Bildschirmfoto 2017-07-12 um 17.24.27.png",
-	  "Bildschirmfoto 2017-07-12 um 17.27.34.png"
-	],
-	"title": "Why the Republican Party wins when robots take your job",
-	"description": "Zwei interessante Wege eine grössere Liste an Daten anzuzeigen: Als Listen. Einmal integriert in ein Scatterplot, ein andermal als eine Art Small Multiples mit einem einfachen Balkendiagramm.",
-	"url": "https://pudding.cool/2017/07/jobs/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Durchsuchbar"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-07-12 um 17.32.12.png",
-	  "Bildschirmfoto 2017-07-12 um 17.32.21.png",
-	  "Bildschirmfoto 2017-07-12 um 17.32.54.png"
-	],
-	"title": "Hier finden Sie Ihr Steuerparadies",
-	"description": "Ich wage fast zu sagen: Besser geht's nicht. Der User kann die Daten anhand seiner eigenen Person erkunden und sich sogar vergleichen. Sehr nütztlich und gut umgesetzt. Nettes Detail: Der direkte Aufruf, Fehler zu melden.",
-	"url": "http://interaktiv.tagesanzeiger.ch/2017/steuerbelastung/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Annotations",
-	  "Illustration",
-	  "Scrollitelling"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-07-12 um 17.36.04.png",
-	  "Bildschirmfoto 2017-07-12 um 17.38.41.png",
-	  "Bildschirmfoto 2017-07-12 um 17.39.28.png"
-	],
-	"title": "Dead on arrival",
-	"description": "Brutales Thema – die Story wird diesem aber gerecht, zeigt die Brutalität auf, ohne voyeuristisch zu sein. Die Karte animiert sich während dem Scrollen und ist schön annotiert.",
-	"url": "http://fingfx.thomsonreuters.com/gfx/rngs/PHILIPPINES-DRUGWAR/010041TN3Z8/index.html"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Kompliziert",
-	  "Falsche Visualisierung",
-	  "Annotations"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-07-12 um 17.51.12.png",
-	  "Bildschirmfoto 2017-07-12 um 17.54.29.png"
-	],
-	"title": "Is Your Job About To Disappear?: QuickTake",
-	"description": "Absolut unlesbar: Wie sich ein Top-10-Ranking über die Jahre entwickelt hat. Man erkennt zwar, dass es die letzten Jahre mehr blaue (Service) Jobs waren in den Top 10, aber um das zu erkennen, braucht man relativ lange. Der Scatterplot unten ist ziemlich komplex, aber wenigstens gut annotiert.",
-	"url": "https://www.bloomberg.com/graphics/2017-jobs-automation-risk/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Gute Darstellung",
-	  "Animation"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-07-12 um 18.00.47.png",
-	  "Bildschirmfoto 2017-07-12 um 18.01.00.png"
-	],
-	"title": "Fatal Traffic, When and Where",
-	"description": "Klares Muster, klare Aussage, gut aufgezeigt. Zusätzlich noch leicht konfigurierbar durch den User: Eine schnelle, runde Sache.",
-	"url": "http://flowingdata.com/2017/04/27/traffic-fatalities-when-and-where/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Small Multiples",
-	  "Gute Farbwahl",
-	  "Small Interactive"
-	],
-	"images": [
-	  "14-07-2017 11-45-34.png",
-	  "Alone-time@2x.png"
-	],
-	"title": "Alone Time",
-	"description": "Ein schönes, einfaches Beispiel von Small Multiples. Von Links nach Rechts und innerhalb eines Charts ergibt sich ein gut lesbares Muster. Zusätzlich kann man noch das Geschlecht selbst wählen.",
-	"url": "http://flowingdata.com/2017/06/26/alone-time/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Animation",
-	  "Zeitlicher Verlauf",
-	  "Karte"
-	],
-	"images": [
-	  "14-07-2017 11-43-15.png",
-	  "14-07-2017 11-43-40.png"
-	],
-	"title": "Watching the growth of Walmart",
-	"description": "Leider Flash, aber an sich interessant, klassischer Fall für einen zeitlichen Verlauf: Man kann von Auge zusehen wie etwas sich über die Zeit verändert.",
-	"url": "http://flowingdata.com/2010/04/07/watching-the-growth-of-walmart-now-with-100-more-sams-club/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Normalverteilung",
-	  "Statisch"
-	],
-	"images": [
-	  "Sports-times-e1499836698848.png"
-	],
-	"title": "Peak times for leisure and sports",
-	"description": "Wenn man die Normalverteilung von verschiedenen Kategorien darstellen möchte, ist das die schönstmögliche Art.",
-	"url": "http://flowingdata.com/2017/07/12/peak-times-for-leisure-and-sports/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Synchronisiert",
-	  "Small Multiples",
-	  "Small Interactives"
-	],
-	"images": [
-	  "14-07-2017 12-02-36.png",
-	  "14-07-2017 12-04-57.png"
-	],
-	"title": "President Trump’s 100 Days of Record-Low Approval Ratings",
-	"description": "Sehr sauber umgesetzt: Die Small Multiples sind miteinander verknüpft, sodass man alles ziemlich schnell erfassen kann.",
-	"url": "https://www.nytimes.com/interactive/2017/02/28/us/politics/the-highs-and-lows-of-trumps-approval.html?_r=0"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Timeline",
-	  "Intro",
-	  "Exploration"
-	],
-	"images": [
-	  "26-07-2017 09-48-44.png",
-	  "26-07-2017 09-48-46.png",
-	  "26-07-2017 09-52-39.png"
-	],
-	"title": "Die Evolution des Webs",
-	"description": "Ganz schön abgespacete Timeline, aber irgendwie lustig und sehr explorativ. Das Intro ist völlig unnötig, aber ganz schön fancy.",
-	"url": "http://evolutionofweb.appspot.com/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gamification",
-	  "Wissenschaft",
-	  "Signifikanz"
-	],
-	"images": [
-	  "26-07-2017 10-00-30.png",
-	  "26-07-2017 10-02-23.png"
-	],
-	"title": "Science isn't broken",
-	"description": "Bastle dir deine Signifikanz aus Sicht der beiden grossen Parteien Amerikas. Je nachdem welche Daten man miteinrechnet, ist das Resultat «publizierbar» oder nicht. Witzige Art, ein sehr wissenschaftliches Thema aufzubereiten.",
-	"url": "https://fivethirtyeight.com/features/science-isnt-broken/#part1"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Wissenschaft",
-	  "Neuronale Netze",
-	  "Interactive"
-	],
-	"images": [
-	  "26-07-2017 10-04-49.png",
-	  "26-07-2017 10-05-13.png"
-	],
-	"title": "Tinker With a Neural Network",
-	"description": "Wie erklärt man neuronale Netze? Hier ein spielerischer Versuch.",
-	"url": "http://playground.tensorflow.org/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Network from hell",
-	  "3D"
-	],
-	"images": [
-	  "26-07-2017 10-09-28.png",
-	  "26-07-2017 10-09-11.png",
-	  "26-07-2017 10-10-05.png"
-	],
-	"title": "Cosmic Web",
-	"description": "Oh wow, völlig überforderndes Netzwerk, das man zwar durchstöbern kann, aber eigentlich auch wieder nicht sehr viel aussagt. Zumindest mir nicht.",
-	"url": "http://cosmicweb.barabasilab.com/viz/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Animation",
-	  "Zeitverlauf",
-	  "Gute Visualisierung"
-	],
-	"images": [
-	  "26-07-2017 11-14-08.png",
-	  "ezgif-4-8256578aec.gif",
-	  "26-07-2017 11-18-17.png"
-	],
-	"title": "How Ebola Spreads",
-	"description": "Dank der Animation und der guten Darstellungsform erkennt man gut, wie sich Ebola von anderen Krankheiten unterscheidet. Die Grössenverhältnisse werden in der zweiten statischen Grafik sehr offensichtlich.",
-	"url": "http://www.washingtonpost.com/wp-srv/special/health/how-ebola-spreads/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Schönes Tooltip",
-	  "Gute Visualisierung",
-	  "Neuartige Visualisierung"
-	],
-	"images": [
-	  "26-07-2017 11-35-30.png",
-	  "26-07-2017 11-37-30.png",
-	  "26-07-2017 11-37-45.png",
-	  "26-07-2017 11-38-02.png",
-	  "26-07-2017 11-39-38.png"
-	],
-	"title": "2016 Election Forecast",
-	"description": "Diese Kombination von Visualisierungen gibt in ihrer Gesamtheit ein unglaublich detailliertes Bild über die Vorherhsagen der Trump-Clinton Wahl. Auch wenn diese einen Sieg von Clinton vorhersagen – oder gerade deswegen – ist es sehr spannend, sich diese genauer anzusehen. Die jeweils gewählte Form der Visualisierung, ist äusserst durchdacht.",
-	"url": "https://projects.fivethirtyeight.com/2016-election-forecast/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Explorativ",
-	  "Schöne Visualisierung",
-	  "Interaction fail"
-	],
-	"images": [
-	  "ezgif-4-b955a83d6f.gif",
-	  "26-07-2017 11-48-43.png",
-	  "26-07-2017 11-49-48.png"
-	],
-	"title": "What's your pay gap?",
-	"description": "Eigentlich ja ein netter Versuch, die Grafik per Maus erkundbar zu machen, aber völlig misslungen. Ohne Bewegung wäre alles viel besser bedienbar.",
-	"url": "http://graphics.wsj.com/gender-pay-gap/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Todesfälle",
-	  "Waffen",
-	  "Schöne Karte"
-	],
-	"images": [
-	  "26-07-2017 11-50-59.png",
-	  "26-07-2017 11-52-05.png",
-	  "26-07-2017 11-53-18.png"
-	],
-	"title": "The math of mass shootings",
-	"description": "Wie wird man Opfern gerecht? Ein Ansatz: Sie nicht als Punkte oder Balken darstellen. So wird einem die Relevanz des Themas deutlich näher gebracht, als in einem Balkendiagramm.",
-	"url": "https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Storytelling",
-	  "Spielerei",
-	  "Animation"
-	],
-	"images": [
-	  "26-07-2017 11-57-20.png",
-	  "ezgif-4-2b94a8e378.gif",
-	  "26-07-2017 12-31-20.png",
-	  "26-07-2017 12-32-14.png",
-	  "26-07-2017 12-33-37.png",
-	  "26-07-2017 12-35-03.png"
-	],
-	"title": "The Migration Observatory",
-	"description": "Interessante Navigation über Fragen. Plus eine nette Spielerei im Hintergrund: Die gesamte Fläche ist mit verschiedenen einzelnen Datenpunkten hinterlegt. Gut, um die grosse Menge zu illustrieren. In der zweiten Hälfte (Migrants in the Census) kann man sehr detailliert Regionen betrachten und sogar vergleichen.",
-	"url": "http://seeingdata.cleverfranke.com/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Explorativ",
-	  "Arbeitsmarktstatistik"
-	],
-	"images": [
-	  "26-07-2017 12-36-55.png",
-	  "26-07-2017 12-37-22.png",
-	  "26-07-2017 12-39-08.png"
-	],
-	"title": "Track National Unemployment, Job Gains and Job Losses",
-	"description": "Indem man Werte unter null nach unten und über null nach oben stapelt ergibt sich ein interessantes Histrogramm. Farblich sehr schön gelöst.",
-	"url": "http://graphics.wsj.com/job-market-tracker/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktion",
-	  "Prognosen",
-	  "Gute Visualisierung"
-	],
-	"images": [
-	  "delegate-calc-1.gif",
-	  "26-07-2017 14-23-09.png",
-	  "26-07-2017 14-22-21.png"
-	],
-	"title": "The Cold Hard Math of How Trump Can Win, and How Rubio Can Stop Him",
-	"description": "Interessante Visualisierungsform von verschiedenen Varianten, von denen man nicht weiss, welche eintreffen wird. Der User kann selbst eingreifen und die Ergebnisse beeinflussen.",
-	"url": "https://www.nytimes.com/interactive/2016/02/27/upshot/republican-delegate-calculator-how-trump-can-win.html?mcubz=0"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Annotations",
-	  "Best Practice",
-	  "Tool"
-	],
-	"images": [
-	  "02-08-2017 08-56-25.png"
-	],
-	"title": "CSS usage on the web",
-	"description": "Nicht erschrecken, das ist für ein Mal keine journalistische Geschichte, sondern ein Tool, das aufzeigt, welche CSS-Eigenschaften auf wie vielen Seiten im Internet eingesetzt werden. Für CSS-Nutzer nicht uninteressant und ein schönes Detail überzeugt: Die Annotation der Balken ist unter 50% ausserhalb und über 50% innerhalb der Balken. Sehr elegant gelöst.",
-	"url": "https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "tableau",
-	  "performance",
-	  "tools"
-	],
-	"images": [
-	  "05-09-2017 16-42-03.png",
-	  "05-09-2017 16-43-21.png",
-	  "05-09-2017 16-46-00.png"
-	],
-	"title": "Word usage in sacred texts",
-	"description": "Eigentlich beeindruckend, was man mit diesem tableau alles anstellen kann, aber hier ist jeder Browser überfordert. Hover und Click Events brauchen mehrere Sekunden, was die an sich interessante Visualisierung praktisch unbrauchbar macht.",
-	"url": "https://public.tableau.com/views/WordUsageinSacredTextsWIP/Comparison"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Augenkrebs",
-	  "Textvisualisierung",
-	  "Interessante Darstellung"
-	],
-	"images": [
-	  "05-09-2017 16-54-54.png",
-	  "05-09-2017 16-52-22.png",
-	  "05-09-2017 16-50-57.png"
-	],
-	"title": "Trumped – 100 days of tweets",
-	"description": "Wie zeige ich Muster in Text auf? Hier ein Versuch, den ich interessant finde. Die grosse Menge führt zwar dazu, dass meine Augen sich schlecht orientieren können und ein schimmern entsteht, aber ich finde, das Ganze hat Potential.",
-	"url": "http://samvickars.is/trumped/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interessante Darstellung",
-	  "Gute Farbwahl",
-	  "Komplex"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-09-07 um 21.05.37.png",
-	  "Bildschirmfoto 2017-09-07 um 21.05.58.png",
-	  "Bildschirmfoto 2017-09-07 um 21.06.04.png"
-	],
-	"title": "Thirty years of Atlantic hurricanes",
-	"description": "Zwei Redaktionen, ein Thema, fast ein und dieselbe Grafik: Von oben nach unten werden die Jahre aufgelistet, von links nach rechts die Monate. Darauf verteilt sind die Stürme, die das Land heimsuchten. Die Grafik ist stark, weil sie zwar komplex ist, aber doch relativ schnell verstanden werden kann.",
-	"url": "https://www.axios.com/a-history-of-atlantic-hurricanes-2482247577.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interessante Darstellung",
-	  "Gute Farbwahl",
-	  "Komplex"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-09-07 um 21.10.16.png",
-	  "Bildschirmfoto 2017-09-07 um 21.10.25.png"
-	],
-	"title": "The Cost of Hurricane Harvey: Only One Recent Storm Comes Close",
-	"description": "Zwei Redaktionen, ein Thema, fast ein und dieselbe Grafik: Von oben nach unten werden die Jahre aufgelistet, von links nach rechts die Monate. Etwas gewöhnungsbedürftig sind die Halbkreise, die für die Kosten stehen, aber zwangsläufig auch auf der chronologischen Ebene links-rechts bzw. oben-unten stehen. Das kann verwirren.",
-	"url": "https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Flash",
-	  "Interessante Darstellung",
-	  "Komplex"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-09-07 um 21.19.46.png",
-	  "Bildschirmfoto 2017-09-07 um 21.19.35.png",
-	  "Bildschirmfoto 2017-09-07 um 21.20.31.png"
-	],
-	"title": "Notabilia – Visualizing Deletion Discussions on Wikipedia",
-	"description": "Wie stelle ich den Verlauf einer Diskussion dar? Hier ein Versuch, der zwar schön anzusehen ist, aber doch eigentlich unbrauchbar. Die beiden «Bäume» Kept und Deleted unterscheiden sich für den normalen Betrachter kaum. Der Erkenntnisgewinn ist praktisch gleich null.",
-	"url": "http://notabilia.net/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Kunst",
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-09-07 um 21.26.55.png",
-	  "Bildschirmfoto 2017-09-07 um 21.27.16.png",
-	  "Bildschirmfoto 2017-09-07 um 21.27.40.png"
-	],
-	"title": "Sound as Color",
-	"description": "Ronnie Pence versucht auf eine neue Art und Weise, Musik als Grafik darzustellen. Was dabei herauskommt, ist visuell ansprechend und fasziniert. Schade, dass man nicht direkt auf der Seite die Musik im Original hören kann.",
-	"url": "http://object-object.com/work/soundascolor"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Animation"
-	],
-	"images": [
-	  "nyGMPFDiuv.gif",
-	  "Bildschirmfoto 2017-09-07 um 21.34.41.png",
-	  "Bildschirmfoto 2017-09-07 um 21.35.20.png"
-	],
-	"title": "She Giggles, He Gallops",
-	"description": "Ein weiteres kleines Meisterwerk von Pudding. Nichts sehr auffälliges, aber ein interessantes Thema perfekt umgesetzt.",
-	"url": "https://pudding.cool/2017/08/screen-direction/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Witzig",
-	  "Simpel",
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-09-07 um 12.59.41.png",
-	  "Bildschirmfoto 2017-09-07 um 13.02.01.png"
-	],
-	"title": "Von wegen Berlin – Klischees im Datencheck",
-	"description": "Kennt ihr die MythBusters noch? Adam Savage und Jamie Hyneman überprüfen darin Sprichwörter und Urban Myths auf ihren Wahrheitsgehalt. Ich habe es geliebt. Und so liebe ich auch die datenjournalistische Version der Berliner Morgenpost. Sehr simpel, aber immer wieder interessant.",
-	"url": "https://interaktiv.morgenpost.de/staedtevergleich/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktiv",
-	  "Explainer",
-	  "Augenkrebs"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-09-07 um 21.48.08.png",
-	  "Bildschirmfoto 2017-09-07 um 21.50.09.png",
-	  "Bildschirmfoto 2017-09-07 um 21.50.40.png"
-	],
-	"title": "How americans die",
-	"description": "Wenn man im Lexikon «Explainer» sucht, könnte da dieser Link stehen. Ein Musterbeispiel wie man einen einzigen Datensatz schrittweise sezieren kann. Leider sind die vielen knalligen Farben auf so grossen Flächen zwischenzeitlich etwas überfordernd. Ansonsten: Sehr gut gemacht.",
-	"url": "https://www.bloomberg.com/graphics/dataview/how-americans-die/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Multimedia",
-	  "Interaktion",
-	  "Annotations"
-	],
-	"images": [
-	  "Bildschirmfoto 2017-09-07 um 22.01.42.png",
-	  "Bildschirmfoto 2017-09-07 um 22.11.04.png",
-	  "Bildschirmfoto 2017-09-07 um 22.11.33.png"
-	],
-	"title": "The dark side of Guardian comments",
-	"description": "Mit der grossen Kelle angerührt, aber gelungen: Die Geschichte über Kommentare beim Guardian und was das Geschlecht des Schreibenden damit zu tun hat. Grafisch sehr schön gelöst, ergänzt mit starken Videos und interaktiven Elementen. Eine runde Sache!",
-	"url": "https://www.theguardian.com/technology/2016/apr/12/the-dark-side-of-guardian-comments"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktiv",
-	  "Strukturierte Daten",
-	  "Nachhaltig"
-	],
-	"images": [
-	  "27-09-2017 11-53-04.png",
-	  "27-09-2017 11-53-34.png",
-	  "27-09-2017 11-54-52.png"
-	],
-	"title": "100 days of Trump claims",
-	"description": "Die Washington Post versucht minutiös, alle Behauptungen von Trump zu überprüfen und sammelt die Ergebnisse auf dieser Seite. Interessant visualisiert und gut durchsuchbar ist es ein gutes Beispiel, wie man strukturierte Daten erheben und sie präsentieren kann.",
-	"url": "https://www.washingtonpost.com/graphics/politics/trump-claims/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Dossier",
-	  "Strukturierte Daten",
-	  "Nachhaltig",
-	  "Offene Recherche"
-	],
-	"images": [
-	  "27-09-2017 12-56-39.png",
-	  "27-09-2017 12-57-13.png",
-	  "27-09-2017 13-04-57.png",
-	  "27-09-2017 12-58-10.png"
-	],
-	"title": "Here’s what we know so far about Team Trump’s ties to Russian interests",
-	"description": "Immer wieder frage ich mich, wie man laufende Ereignisse zu einem Themendossier zusammenfassen kann. Dies ist eine hervorragende Variante. Jede Verbindung zwischen zwei Personen ist mit vielen Quellen hinterlegt und die ganze Seite wird laufend erweitert mit den neusten Erkenntnissen. Vorbildlich.",
-	"url": "https://www.washingtonpost.com/graphics/national/trump-russia/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Karte",
-	  "Reduziert",
-	  "Grafisch"
-	],
-	"images": [
-	  "27-09-2017 13-03-59.png",
-	  "27-09-2017 13-04-21.png",
-	  "27-09-2017 13-04-39.png"
-	],
-	"title": "The Stories Behind a Line",
-	"description": "Die Fluchtwege von 6 Flüchtenden visualisiert. Auf einer Karte und als Chart. Etwas schwer zu lesen und etwas sehr abstrakt, aber sehr ausführlich und elegant dargestellt.",
-	"url": "http://www.storiesbehindaline.com/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Annotationen",
-	  "Audio"
-	],
-	"images": [
-	  "27-09-2017 13-10-11.png",
-	  "27-09-2017 13-11-01.png",
-	  "27-09-2017 13-11-40.png",
-	  "27-09-2017 13-12-26.png"
-	],
-	"title": "Hip-Hop Is Turning On Donald Trump",
-	"description": "FiveThirtyEight findet ihr eine interessante Herangehensweise an das Thema der Präsidentschaftswahl. Wie immer optisch perfekt aufbereitet. Besonders gefallen mir die Zusatzinfos, die sich beim Mouse-Over eines Kreises zeigen.",
-	"url": "https://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Wenig beachtetes Thema"
-	],
-	"images": [
-	  "27-09-2017 13-50-11.png",
-	  "27-09-2017 13-51-53.png",
-	  "ezgif-4-33df0a8c76.gif"
-	],
-	"title": "Delhi Dowry Bazaar",
-	"description": "Ein heikles gesellschaftliches Thema auf eine eindrückliche Art und Weise aufgearbeitet. Durch das starke Zitat am Anfang erhält die sonst sehr abstrakt gehaltene Visualisierung eine neue Bedeutung.",
-	"url": "http://www.hindustantimes.com/interactives/delhi-dowry-bazaar/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Annotationen"
-	],
-	"images": [
-	  "27-09-2017 14-06-35.png",
-	  "27-09-2017 14-07-16.png",
-	  "27-09-2017 14-06-59.png"
-	],
-	"title": "Bias, she wrote",
-	"description": "Wie immer bei Pudding: Extrem sauber umgesetzte Geschichte, perfekt visualisiert. Besonders die Balkengrafik gefällt mir gut. Über die vielen Balken lässt sich ein klarer Trend erkennen, die ausserdem vorbildlich mit Zusatzinformationen annotiert sind.",
-	"url": "https://pudding.cool/2017/06/best-sellers/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Zeitstrahl",
-	  "Annotationen",
-	  "Erklärstück"
-	],
-	"images": [
-	  "27-09-2017 14-17-06.png",
-	  "27-09-2017 14-18-00.png",
-	  "27-09-2017 14-18-31.png"
-	],
-	"title": "A new dawn",
-	"description": "Die Beziehung der Länder Süd- und Nordkorea anhand der Anzahl Treffen visualisiert. Eine gelungene Darstellung für eine lange Zeit.",
-	"url": "http://fingfx.thomsonreuters.com/gfx/rngs/INTERKOREA-RELATIONS/010041MD3JB/index.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Erklärstück",
-	  "Scrollitelling",
-	  "Vielseitig"
-	],
-	"images": [
-	  "27-09-2017 14-21-50.png",
-	  "27-09-2017 14-22-49.png",
-	  "27-09-2017 14-23-05.png",
-	  "27-09-2017 14-23-28.png"
-	],
-	"title": "Rocket Science",
-	"description": "Die Nordkorea-Serie von Thomson Reuters hat noch mehr zu bieten. Ein solides Scrollitelling, das ergänzt ist mit gut erklärenden Illustrationen und Fotos.",
-	"url": "http://fingfx.thomsonreuters.com/gfx/rngs/NORTHKOREA-MISSILES/010041L63FE/index.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interessante Visualisierung",
-	  "Animation",
-	  "Zeitreihe"
-	],
-	"images": [
-	  "2017-11-17 16_51_12.gif",
-	  "27-09-2017 14-27-54.png",
-	  "27-09-2017 14-28-24.png"
-	],
-	"title": "The Rhythm of Food",
-	"description": "Sehr exloratives Stück von Alberto Cairo et alii. Wunderschön anzusehen, technisch natürlich perfekt umgesetzt. Ob es auch demokratierelevant ist, sei dahingestellt.",
-	"url": "http://rhythm-of-food.net/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "az_medien_01.jpg"
-	],
-	"title": "Die Gipf-Oberfricker sind Abo-Meister",
-	"description": "Das ist die vielleicht schlechteste Farbskala, die ich je gesehen habe. Rot wird über Blau zu grün. Intuitiv liest man rot als «viel», es steht aber für wenig. Für Farbenblinde unleserlich, aber selbst für normal sehende eine Herausforderung. Schade.",
-	"url": "https://www.aargauerzeitung.ch/aargau/fricktal/die-gipf-oberfricker-sind-abo-meister-131771093"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktion",
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "06-10-2017 16-34-45.png",
-	  "06-10-2017 16-35-05.png",
-	  "06-10-2017 16-36-33.png"
-	],
-	"title": "Craft beer — so hot right now. But what city is the microbrew capital of the US?",
-	"description": "Der drehbare scatter plot ist eine Neukreation von Pudding.cool und eine sehr gelungene. Der User kann seine eigene Priorität anwenden. Die Bedienung ist intuitiv und macht Spass.",
-	"url": "https://pudding.cool/2017/04/beer/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Personalisierung",
-	  "Optimale Darstellungsform",
-	  "Open Data"
-	],
-	"images": [
-	  "06-10-2017 17-13-15.png"
-	],
-	"title": "London household spending outstrips the rest of the UK",
-	"description": "Kompakte Darstellung, gut sortiert: Von links nach rechts wirds immer teurer und von oben nach unten auch. Das macht die Visualisierung rasch verständlich und übersichtlich. Die simplifizierten Regionen als Kästchen sind nett (Tooltips wären hilfreich). Weiteres Plus: Die ganze Grafik steht als iFrame zum selber einbetten zur Verfügung.",
-	"url": "http://visual.ons.gov.uk/london-household-spending-outstrips-the-rest-of-the-uk/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Unnütz",
-	  "Überfrachtet",
-	  "3D"
-	],
-	"images": [
-	  "06-10-2017 17-21-30.png"
-	],
-	"title": "Mapping the Flow of International Trade",
-	"description": "What does this map tell us? Diese Frage stellt der Autor gleich selbst in seinem Artikel und das frage ich mich auch. Es erschliesst sich dem Betrachter nämlich nicht ohne weiteres.",
-	"url": "http://metrocosm.com/map-international-trade/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Animation",
-	  "Zeitreihe"
-	],
-	"images": [
-	  "06-10-2017 17-42-37.png",
-	  "06-10-2017 17-43-00.png",
-	  "06-10-2017 17-43-43.png"
-	],
-	"title": "Global Gender Gap Report",
-	"description": "Ich mag es, wenn Entwicklungen innerhalb einer Rangliste auf der x-Achse aufgezeigt werden. Ansonsten ist das Stück eher überfordernd. Die kleine Schrift und das Design, das sich auf alle Seiten ausbreitet schrecken eher ab.",
-	"url": "http://projects.two-n.com/world-gender/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Anders",
-	  "Dekorativ",
-	  "Schwarzweiss"
-	],
-	"images": [
-	  "06-10-2017 17-52-47.png",
-	  "06-10-2017 17-51-43.png",
-	  "06-10-2017 17-52-03.png"
-	],
-	"title": "Beautiful in English",
-	"description": "Sehr dekorativ, aber schön gemacht. Ein durchaus interessantes Thema mit vielen Daten völlig anders aufbereitet, als man es von den meisten anderen Datenvisualisierungen kennt.",
-	"url": "http://www.beautifulinenglish.com/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Grafisch",
-	  "Schwarzweiss"
-	],
-	"images": [
-	  "06-10-2017 17-58-20.png",
-	  "06-10-2017 17-57-51.png",
-	  "06-10-2017 17-59-17.png",
-	  "06-10-2017 18-00-38.png"
-	],
-	"title": "Europa Dreaming",
-	"description": "Diese Seite hat zurecht einen Design-Preis gewonnen. Die Ästhetik des schwarzweiss-Kopierers geschickt aufgenommen und auf die Karte adaptiert. Nur von sorgfältig eingesetztem Gelb gebrochen, zieht sich das Konzept durch alles durch. Bilder, Videos und Grafiken ergänzen sich optimal.",
-	"url": "http://europadreaming.eu/en/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Alternative Darstellung",
-	  "Karte",
-	  "Hohe Informationsdichte"
-	],
-	"images": [
-	  "23-10-2017 08-49-29.png",
-	  "23-10-2017 08-50-55.png",
-	  "23-10-2017 08-51-38.png"
-	],
-	"title": "How Trump redrew the electoral map, from sea to shining sea",
-	"description": "Die Karte zeichnet ein sehr detailliertes Bild. Mehrere Datenpunkte werden dargestellt, doch den Autoren gelingt es, den Betrachter damit nicht zu überfordern.",
-	"url": "https://www.washingtonpost.com/graphics/politics/2016-election/election-results-from-coast-to-coast/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Tooltips",
-	  "Small Multiples"
-	],
-	"images": [
-	  "23-10-2017 09-16-31.png",
-	  "23-10-2017 09-16-52.png",
-	  "23-10-2017 09-17-52.png"
-	],
-	"title": "How popular is Donald Trump?",
-	"description": "Nichts aufregendes, aber wie fast immer bei FiveThirtyEight sehr gut umgesetzt. Die Small Multiples sind verlinkt miteinander",
-	"url": "https://projects.fivethirtyeight.com/trump-approval-ratings/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Innovative Darstellung",
-	  "Schöne Annotationen"
-	],
-	"images": [
-	  "2uWX4VMUw0.gif",
-	  "Bildschirmfoto 2017-11-09 um 08.33.25.png",
-	  "Bildschirmfoto 2017-11-09 um 08.35.29.png"
-	],
-	"title": "The Most Popular of Them All: a look at fanfiction’s favorite ships",
-	"description": "Viele nette Details machen dieses Stück zu einem interessanten Vorbild: Heatmaps werden kombiniert zu einem Histogramm. Die annotierten Zählchen sind schick und reduziert, die Illustrationen und Filmchen machen das Ganze auch für nicht-Nerds attraktiv und auch die Annotationen sind gut gelöst. Sie werden in einer freien Fläche und immer am selben Ort dargestellt.",
-	"url": "http://sxywu.com/hpff/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Open Source",
-	  "Schöne Annotationen",
-	  "Interessante Darstellung"
-	],
-	"images": [
-	  "f95KBPxdCy.gif",
-	  "Bildschirmfoto 2017-11-09 um 09.59.50.png",
-	  "Bildschirmfoto 2017-11-09 um 10.00.12.png"
-	],
-	"title": "All Olympic Gold Medal Winners",
-	"description": "Ganz schön verrückt, was hier alles zusammenkommt: Die Kreise sind untereinander verlinkt (z.B. Highlighting von Jahresringen), die Annotationen sind extrem schön gelöst und die eigentlich hochkomplexe Darstellung überfordert den Betrachter nicht. Was das ganze noch interessanter macht: Der gesamte [Code](https://github.com/nbremer/datasketches/tree/gh-pages/august/code/nadieh) ist öffentlich.",
-	"url": "http://www.datasketch.es/august/code/nadieh/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Neuartige Darstellung",
-	  "Explorativ",
-	  "Viel Information auf wenig Raum"
-	],
-	"images": [
-	  "17-11-2017 09-37-39.png",
-	  "17-11-2017 09-38-36.png",
-	  "17-11-2017 09-39-03.png"
-	],
-	"title": "Die Politlandschaft Schweiz",
-	"description": "Erst duch Klick auf eine Partei eröffnet sich dem Betrachter eine interessante Schweizer Berglandschaft. Nämlich eine nach Parteien. Je höher der Berg bzw. die Linie desto höher der Wähleranteil in der Region. Nun kann man sich darüber unterhalten, wie gut man das lesen kann und wie präzise es ist, schön und interessant ist es allemal. Insgesamt ist das Stück durch die verschiedenen Modi (Kantone / Parteien) vielleicht etwas überfrachtet.",
-	"url": "https://interaktiv.tagesanzeiger.ch/2015/political-landscape/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interessante Darstellung",
-	  "Gute Annotationen",
-	  "Mike Bostock"
-	],
-	"images": [
-	  "17-11-2017 09-43-20.png",
-	  "17-11-2017 09-42-44.png"
-	],
-	"title": "A Chicago Divided by Killings",
-	"description": "Zahlen werden meist dann interessant, wenn man zwei Aspekte kombiniert. Das ist auf dieser Karte der Fall: Der Betrachter sieht rasch, dass zwischen den blauen Flächen, wo mehr Schwarze als Weisse leben, und die Heatmap aus orangenen Kreisen ein Zusammenhang besteht. Die grösse der Kreise steht für die Anzahl Morde an jenem Ort. Die Karte ist übrigens von Mike Bostock höchstpersönlich, dem Autor von d3.",
-	"url": "http://www.nytimes.com/interactive/2013/01/02/us/chicago-killings.html"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktiv",
-	  "Gute Darstellung",
-	  "Witziges Thema"
-	],
-	"images": [
-	  "17-11-2017 09-48-19.png",
-	  "17-11-2017 09-48-03.png",
-	  "17-11-2017 09-49-44.png"
-	],
-	"title": "Überall Berge – ausser in den Alpen",
-	"description": "Flurnamen – was für ein nerdiges Thema. Hier aber sehr massentauglich aufbereitet. Die Heatmap aus Sechsecken ist die richtige Darstellungsform, die mir persönlich sehr gefällt. Dass man eigene Suchen durchführen kann und das auch noch mit regulären Ausdrücken (Regex) ist richtig nerdig, aber auch richtig cool. Einziger Kritikpunkt: Ich hätte wohl eher ein grau verwendet als ein hellblau für Sechsecke mit dem Wert 0.",
-	"url": "https://blog.tagesanzeiger.ch/datenblog/index.php/11390/die-haeufigsten-ortsnamensendungen-in-der-schweiz"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Farbwahl",
-	  "Interssante Darstellung",
-	  "Open Source"
-	],
-	"images": [
-	  "17-11-2017 09-56-05.png",
-	  "17-11-2017 09-55-40.png",
-	  "17-11-2017 09-56-33.png"
-	],
-	"title": "Teams' Combined Win and Loss Record Before Every NBA Game",
-	"description": "Ich habe nach 10 Minuten immer noch nicht 100 Prozent verstanden, was ich da sehe, aber es ist visuell einfach verdammt interessant. Wer mir erklären kann, warum die obere Hälfte und die untere Hälfte nicht symmetrisch sind, kriegt ein Bier von mir.",
-	"url": "https://roadtolarissa.com/nba-win-loss/"
-  },
-  {
-	"class": "dont",
-	"tags": [
-	  "Verwirrend",
-	  "Gute Farbwahl",
-	  "Intersesante Darstellung"
-	],
-	"images": [
-	  "17-11-2017 10-04-18.png",
-	  "17-11-2017 10-05-16.png",
-	  "17-11-2017 10-02-22.png"
-	],
-	"title": "Minute by Minute Point Differentials of 2015 NBA Games",
-	"description": "Für mich ist hier die Grenze der Lesbarkeit leider unterschritten. Nach langer Betrachtung, stelle ich fest: Ein Punkt ist ein Match. Jede Spalte beinhaltet jedes Spiel der Saison. Jede Spalte steht für eine Spielminute und die y-Position des Kreises für den Vorsprung oder Rückstand in Punkten. So interessant ich die Darstellung auch finde, so frage ich mich, für welches Publikum sie gemacht wurde.",
-	"url": "https://roadtolarissa.com/nba-minutes/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interessante Darstellung",
-	  "Hohe Informationsdichte",
-	  "Explorativ"
-	],
-	"images": [
-	  "17-11-2017 10-14-18.png",
-	  "17-11-2017 10-14-47.png"
-	],
-	"title": "Who marries whom",
-	"description": "Man ist verführt, im ersten Moment zu sagen: Das ist zu kompliziert. Aber wenn man sich überlegt, dass hier doch tatsächlich 473 Berufe dargestellt sind und jeder Beruf wiederum zu jedem Beruf (inkl. sich selbst) eine Beziehung haben kann, sind wir schon bei 223'729 Beziehungen, die hier dargestellt werden. Und das auf einen Blick (mehr oder weniger). Das finde ich in der Tat beeindruckend kompakt. Auf einem Smartphone-Screen hat das dann halt keinen Platz mehr.",
-	"url": "https://www.bloomberg.com/graphics/2016-who-marries-whom/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Gute Annotationen",
-	  "Animation",
-	  "Schöne Details"
-	],
-	"images": [
-	  "17-11-2017 11-13-47.png",
-	  "ezgif-4-b8bfc2ae19.gif",
-	  "17-11-2017 11-14-12.png"
-	],
-	"title": "March Madness Makers and Takers",
-	"description": "Dieses Stück darf in dieser Sammlung nicht fehlen, weil es nichts Spektakuläres, sondern eine Sammlung von gut bekannten Darstellungsformen ist, aber sehr schön umgesetzt. Die vielen Annotationen bringen Tiefe in das Ganze und die gewählte Darstellungsform ist stets die passende. Zum Beispiel die Punktgrafik, die auf der x-Achse kategorische, auf der y-Achse kontinuierliche Daten mit kleinen Rechtecken zeigt.",
-	"url": "https://www.bloomberg.com/graphics/2015-march-madness-basketball-fund/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Animation",
-	  "Lineares Storytelling"
-	],
-	"images": [
-	  "17-11-2017 11-24-41.png",
-	  "ezgif-4-f4ef4aff4b.gif",
-	  "17-11-2017 11-22-09.png"
-	],
-	"title": "What's really warming the world?",
-	"description": "Wenn man User in eine lineare Rezipion zwingt indem man mit Scrollitelling arbeitet, sollte das wohlüberlegt sein. Dieses Beispiel ist es! Optisch kommt es ruhig und reduziert daher (im Vergleich zu vielen anderen Scrollitellings) und der schrittweise Aufbau der Argumentation ist stringent und macht Sinn.",
-	"url": "https://www.bloomberg.com/graphics/2015-whats-warming-the-world/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Open Source",
-	  "Interessante Darstellung",
-	  "Karte"
-	],
-	"images": [
-	  "17-11-2017 11-29-29.png",
-	  "17-11-2017 11-29-01.png"
-	],
-	"title": "Population Division",
-	"description": "Mal kurz auf unter 200 Zeilen Code eine sehr nice Darstellung der Welt (vom Cover «Unknown Pleasures» von Joy Division inspiriert) schreiben? Wieso nicht. Adam Pearce macht das rasch für uns. Sehr beeindruckend.",
-	"url": "https://roadtolarissa.com/population-division/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interessante Darstellung",
-	  "Gute Farbwahl",
-	  "Innovative Methoden"
-	],
-	"images": [
-	  "17-11-2017 11-47-20.png",
-	  "17-11-2017 11-44-45.png",
-	  "17-11-2017 11-45-33.png",
-	  "ezgif-4-2ab79d3bf6.gif"
-	],
-	"title": "What the street?",
-	"description": "Das ist etwas vom komplexesten, was ich je gesehen habe. Das Onboarding ist gleichzeitig extrem gut gelöst. Hut ab. Sehr beeindruckendes Projekt.",
-	"url": "https://whatthestreet.moovellab.com/stuttgart"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Interaktion",
-	  "Animation",
-	  "Gute Farbwahl"
-	],
-	"images": [
-	  "17-11-2017 12-37-34.png",
-	  "ezgif-4-6fa068d397.gif",
-	  "ezgif-4-8e27e06396.gif",
-	  "17-11-2017 12-39-47.png"
-	],
-	"title": "Stadt, Land, Vorurteil",
-	"description": "Ein politisch hochrelevantes Thema auf eine unterhaltsame Art und Weise umgesetzt. Ob die Animation zu Beginn nötig ist oder eher der Show dient, sei dahingestellt, aber danach wird dem Besucher der Inhalt optimal vermittelt. Mittels Quiz kann man seine eigenen Vorurteile gegenüber Vorurteilen überprüfen und lernt etwas über unsere Gesellschaft.",
-	"url": "www.zeit.de/feature/deutsche-bevoelkerung-stadt-land-unterschiede-vorurteile"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Investigativ",
-	  "Karte"
-	],
-	"images": [
-	  "17-11-2017 12-41-42.png",
-	  "17-11-2017 12-42-02.png"
-	],
-	"title": "Irrsinn der Agrarpolitik",
-	"description": "Ein starkes Stück Recherche. Die Beweisführung mittels Karten funktioniert. Die Idee, die Karte streckenweise zu maximieren, um dann wieder einen längeren Text zu zeigen, gefällt mir. Es bringt einen Rhythmus in die Geschichte. Die Farben bzw. die Mischung aus Sechsecken und farbigen Punkten, hätte man eventuell noch eleganter machen können.",
-	"url": "correctiv.org/recherchen/wirtschaft/artikel/2017/06/13/agrar-subventionen-massentierhaltung-ammoniak-nitrat/"
-  },
-  {
-	"class": "do",
-	"tags": [
-	  "Scrollitelling",
-	  "Interessante Darstellung",
-	  "Schöne Annotationen"
-	],
-	"images": [
-	  "17-11-2017 12-51-10.png",
-	  "ezgif-4-592d6e7720.gif",
-	  "launchangle_swing.gif"
-	],
-	"title": "These days in baseball, every batter is trying to find an angle",
-	"description": "Was für eine Heatmap! Warum nicht, die grösse der Sechsecke und die Farbe beide zur Encodierung der Hitze benutzen. Gute Idee, sehr schön umgesetzt.",
-	"url": "https://www.washingtonpost.com/graphics/sports/mlb-launch-angles-story/"
-  }]
+  "class": "do",
+  "tags": [
+    "Daten offenlegen",
+    "linear",
+    "schönes Detail",
+    "sauber"
+  ],
+  "images": [
+    "14-02-2017 15-37-14.jpg",
+    "14-02-2017 15-40-50.jpg"
+  ],
+  "title": "Airbnb vs. Berlin",
+  "description": "Ausführliche Geschichte, monothematisch, linear erzählt.",
+  "url": "http://www.airbnbvsberlin.de/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Annotations",
+    "Begriffserklärung",
+    "Zweigeteilt",
+    "multisite"
+  ],
+  "images": [
+    "14-02-2017 15-46-50.jpg",
+    "14-02-2017 15-48-45.jpg"
+  ],
+  "title": "Dekoder – Russland entschlüsseln",
+  "description": "Das Linien-Diagramm wird an einigen Schlüsselstellen sehr detailliert erklärt. Begriffe werden bei Interesse in einem Text werden in der rechten Hälfte, einem wiederum ausgewachsenen Text erklärt.",
+  "url": "http://www.dekoder.org/de/article/infografik-verhaeltnis-usa-umfrage"
+},
+{
+  "class": "do",
+  "tags": [
+    "schönes Detail",
+    "Scrollitelling",
+    "Gute Farbwahl",
+    "small multicles",
+    "navigation"
+  ],
+  "images": [
+    "14-02-2017 15-52-39.jpg",
+    "14-02-2017 15-54-29.jpg",
+    "14-02-2017 15-55-30.jpg"
+  ],
+  "title": "Geld zieht Ärzte an",
+  "description": "Durch Scrollen wird eine Karte laufend ergänzt. Datensätze sind mit einem Miniatur angedeutet und im selben Feld ansteuerbar. Die rechte und linke Hälfte sind verknüpft. Hover, Click etc. werden auf der Karte und im Chart angezeigt.",
+  "url": "http://www.zeit.de/feature/gesundheit-arzt-privat-versicherung-praxis"
+},
+{
+  "class": "do",
+  "tags": [
+    "stepper",
+    "aufbauend",
+    "Video",
+    "schönes Detail",
+    "Scrollitelling",
+    "small interactives",
+    "Gute Farbwahl",
+    "Kapitel"
+  ],
+  "images": [
+    "14-02-2017 16-06-54.jpg",
+    "14-02-2017 16-05-08.jpg",
+    "14-02-2017 16-03-24.jpg"
+  ],
+  "title": "Falciani's SwissLeaks – The Great Bank Data Robbery",
+  "description": "Für mich zu überfrachtet, zu aufbauend, aber teilweise interessante Details. Der User interagiert immer wieder mit der Story.",
+  "url": "http://falciani-info.arte.tv/#/chapter/1"
+},
+{
+  "class": "do",
+  "tags": [
+    "CSS Video",
+    "Episoden",
+    "Interaktives Video"
+  ],
+  "images": [
+    "14-02-2017 16-19-49.jpg"
+  ],
+  "title": "Do not Track",
+  "description": "Absolut crazy, riesig. Komplex, geil. Too much. Can't breathe.",
+  "url": "https://episode5.donottrack-doc.com/de"
+},
+{
+  "class": "do",
+  "tags": [
+    "Annotations",
+    "Gute Farbwahl",
+    "Schöne Details",
+    "Gut Strukturiert"
+  ],
+  "images": [
+    "14-02-2017 16-23-25.jpg",
+    "14-02-2017 16-22-58.jpg",
+    "14-02-2017 16-25-33.jpg",
+    "14-02-2017 16-27-05.jpg",
+    "14-02-2017 16-29-56.jpg"
+  ],
+  "title": "Wo Deutschland rechts wählt",
+  "description": "Schöne Erkärung für Farben, schön strukturiert (z.B. Thesen)",
+  "url": "https://interaktiv.morgenpost.de/wo-deutschland-rechts-waehlt/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Grosszügig"
+  ],
+  "images": [
+    "14-02-2017 16-31-02.jpg",
+    "14-02-2017 16-31-39.jpg",
+    "14-02-2017 16-32-43.jpg"
+  ],
+  "title": "Babys in Berlin",
+  "description": "Beeindruckend gestaltet, z.B. sehr ausführliche Tooltips",
+  "url": "https://interaktiv.morgenpost.de/babys-in-berlin/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Zeitlicher Verlauf",
+    "Animation",
+    "Route"
+  ],
+  "images": [
+    "14-02-2017 16-34-40.jpg"
+  ],
+  "title": "So schnell läuft Ihre Stadt",
+  "description": "Ein Video einer Strecke auf einer Karte von here und auch sonst witzig gemacht.",
+  "url": "http://interaktiv.morgenpost.de/berlin-marathon-2016/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schwierige Daten"
+  ],
+  "images": [
+    "14-02-2017 16-37-37.jpg"
+  ],
+  "title": "Wählerwanderung",
+  "description": "Schwieriges Thema, das beste rausgeholt.",
+  "url": "http://interaktiv.morgenpost.de/waehlerwanderung-berlin-2016/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schlaue Navigation",
+    "Schönes Detail"
+  ],
+  "images": [
+    "14-02-2017 16-43-58.jpg",
+    "14-02-2017 16-45-03.jpg"
+  ],
+  "title": "Berlins Buslinie der grossen Unterschiede",
+  "description": "Vorbildlicher Umgang mit Lücken, perfekte Navigation für dieses Thema, spannender Ansatz, gut umgesetzt.",
+  "url": "http://interaktiv.morgenpost.de/m29/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Annotations",
+    "Schönes Detail",
+    "Einfach",
+    "Superverständlich"
+  ],
+  "images": [
+    "14-02-2017 16-46-48.jpg"
+  ],
+  "title": "Umzüge in Berlin",
+  "description": "Einfach, aber absolut verständlich. Die einfachste Infografik der Welt.",
+  "url": "http://interaktiv.morgenpost.de/umzuege-in-berlin/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schwierige Daten",
+    "Schönes Detail",
+    "Small Multicles"
+  ],
+  "images": [
+    "14-02-2017 16-53-38.jpg"
+  ],
+  "title": "How Beyoncé Could Make Grammy History Tonight",
+  "description": "Viele Daten, trotzdem anmächelig.",
+  "url": "https://www.nytimes.com/interactive/2017/02/12/arts/music/how-beyonce-could-make-grammy-history.html?smid=pl-share"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Richtige Form"
+  ],
+  "images": [
+    "14-02-2017 16-55-46.jpg"
+  ],
+  "title": "Trump’s Cabinet Picks Have Faced Record-Setting Opposition",
+  "description": "Perfekt Umsetzung des Themas, nichts kompliziertes, schnell verständlich.",
+  "url": "https://www.nytimes.com/interactive/2017/02/09/us/politics/trump-cabinet-opposition.html?smid=pl-share"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schönes Detail"
+  ],
+  "images": [
+    "14-02-2017 17-03-53.jpg"
+  ],
+  "title": "How Each Senator Voted on Trump’s Cabinet and Administration Nominees",
+  "description": "Einfache Datengrundlage, perfekt umgesetzt.",
+  "url": "https://www.nytimes.com/interactive/2017/01/31/us/politics/trump-cabinet-confirmation-votes.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Strukturierte Daten",
+    "Update",
+    "Small Interactives"
+  ],
+  "images": [
+    "14-02-2017 17-08-03.jpg"
+  ],
+  "title": "Ist der BER schon fertig?",
+  "description": "Cooler Umgang mit strukturierten Daten, wird laufend aktualisiert, ist ständig aktuell und fundiert. Beste Anlaufstelle.",
+  "url": "http://www.istderberschonfertig.de/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Separieren",
+    "Einfach",
+    "Verständlich"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-02-14 um 17.49.41.png"
+  ],
+  "title": "Trumps Popularitätsproblem in 5 Grafiken",
+  "description": "Statt zu viel eine Grafik packen zu wollen: Mach mehrere draus.",
+  "url": "https://www.nzz.ch/international/polarisierung-in-den-usa-trumps-popularitaetsproblem-in-5-grafiken-ld.143821"
+},
+{
+  "class": "do",
+  "tags": [
+    "Small multicles",
+    "Layout"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-02-14 um 17.55.46.png"
+  ],
+  "title": "Wie Vornamen die Schweiz erobern und wieder verschwinden",
+  "description": "Gut gemacht: Platz links und rechts vom Text ausgenutzt. Small multicles sind ausserdem besser erfassbar als eine animierte Grafik. Inhaltlich aus meiner Sicht nicht sehr spannend.",
+  "url": "https://www.nzz.ch/panorama/namentrends-wie-vornamen-die-schweiz-erobern-und-wieder-verschwinden-ld.111687"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schönes Detail",
+    "Verständlich"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-02-14 um 17.58.30.png"
+  ],
+  "title": "Die zehn wichtigsten Fakten zum NZZ-Rating",
+  "description": "Die Pfeile machen die Zeit-Ebene sehr schnell klar und die Annotationen links und rechts helfen, die X-Achse zu verstehen.",
+  "url": "https://www.nzz.ch/schweiz/parlamentarierrating-2016/parlamentarier-rating-die-zehn-wichtigsten-fakten-zum-grossen-nzz-rating-ld.130389"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Sinnvolle Standards"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-02-14 um 18.03.00.png"
+  ],
+  "title": "Linke und rechte Einzelkämpfer",
+  "description": "Eine alphabetische Sortierung als Standard macht hier wenig Sinn. Die Sortierung nach links/rechts ist viel spannender und sollte von Anfang an konfiguriert sein.",
+  "url": "https://www.nzz.ch/schweiz/parlamentarierrating-2016/parlamentarierrating-staenderat-ld.130383"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Usability",
+    "Kontrolle"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-02-14 um 18.05.53.png"
+  ],
+  "title": "Der Weg zu Titel Nummer 18 in einer Grafik",
+  "description": "Nimm dem Benutzer nie die Kontrolle weg. Animationen und deren Geschwindigkeit müssen vom User definiert werden können.",
+  "url": "https://www.nzz.ch/sport/tennis/roger-federer-der-weg-zu-titel-nummer-18-in-einer-grafik-ld.142428"
+},
+{
+  "class": "do",
+  "tags": [
+    "Annotations"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-02-14 um 18.22.40.png",
+    "5P4sZOlnxf.gif"
+  ],
+  "title": "Bloombergs Billionaires",
+  "description": "In vier verschiedenen Ansicht kann man sich durch die Detaillierten Daten suchen. Die Darstellung ist verspielt, aber cool. Beim Darüberfahren werden ohne jegliche Bewegung die Zahlen anstelle der Balken dargestellt. Eine schöne Lösung.",
+  "url": "https://www.bloomberg.com/billionaires/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Highlight",
+    "Individualisierung"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-02-14 um 18.28.19.png"
+  ],
+  "title": "Gasoline Prices around the world",
+  "description": "Aufgrund der GPS-Position wird das Herkunftsland des Benutzers vorselektiert und herausgehoben.",
+  "url": "https://www.bloomberg.com/graphics/gas-prices/#20164:Switzerland:USD:g"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Karte",
+    "Mapbox"
+  ],
+  "images": [
+    "16-02-2017 12-05-33.jpg"
+  ],
+  "title": "NYC Citi Bike",
+  "description": "Eine simple Karte, die sehr gut ein positives und negatives Saldo auf Strassen visualisiert.",
+  "url": "http://urbica.co/citibike/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Animation",
+    "Karte",
+    "Leaflet"
+  ],
+  "images": [
+    "16-02-2017 12-11-55.jpg"
+  ],
+  "title": "Spies in the skies",
+  "description": "Optisch zwar nicht ganz einfach, aber klar in der Aussage: Das ist viel! Die Karte verändert sich anhand einer Timeline. Sehr gut gemacht.",
+  "url": "https://www.buzzfeed.com/peteraldhous/spies-in-the-skies"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktion",
+    "Exploration",
+    "Innovativer Inhalt"
+  ],
+  "images": [
+    "24-02-2017 10-25-54.jpg",
+    "small_multiple_geo.jpg"
+  ],
+  "title": "Slang Words",
+  "description": "Eine Reihe von Begriffen kann ein- und ausgeblendet werden. Die Annotationen sind vorbildlich.",
+  "url": "https://pudding.cool/2017/02/new-slang/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "02-03-2017 12-48-49.jpg",
+    "Bildschirmfoto 2017-03-02 um 13.01.19.png"
+  ],
+  "title": "SRF Abstimmungen",
+  "description": "Dies wäre ein klassischer Fall für eine 'divering color scale'. Die leuchtend rote Farbe bei einem Wert von 50.2% ist sehr irrefürend.",
+  "url": "https://www.srf.ch/news/schweiz/abstimmungen/abstimmungen/einbuergerung"
+},
+{
+  "class": "do",
+  "tags": [
+    "Annotations",
+    "Scrollitelling",
+    "Komplex"
+  ],
+  "images": [
+    "20-09-2017 10-46-33.png",
+    "07-03-2017 16-14-00.png"
+  ],
+  "title": "How the Recession Reshaped the Economy, in 255 Charts",
+  "description": "Extrem detaillierte, aber in Schritten aufgearbeitete grosse Scroll-Grafik. Sogar das Tooltip ist super-detailliert. Die heftigste Arbeitsmarktstatistik ever.",
+  "url": "https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Kopie",
+    "Interaktion",
+    "Innovativ"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-03 um 16.10.26.png"
+  ],
+  "title": "Copy good stuff",
+  "description": "Das ist die exakte Kopie der [New York Times](https://www.nytimes.com/interactive/2017/01/15/us/politics/you-draw-obama-legacy.html), aber egal. Es ist grossartig!",
+  "url": "http://www.lemonde.fr/les-decodeurs/article/2017/02/16/chomage-deficit-pib-dessinez-vous-meme-le-bilan-de-francois-hollande-en-9-graphiques_5080553_4355770.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Ungewöhnliche Darstellung",
+    "Interaktiv",
+    "Krativ"
+  ],
+  "images": [
+    "07-03-2017 14-39-34.png"
+  ],
+  "title": "Where We Came From and Where We Went, State by State",
+  "description": "Wer ist wann von wo nach wo gezogen. Witzige Darstellung für sehr komplexe Daten. Gute historische Übersicht.",
+  "url": "https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?_r=0"
+},
+{
+  "class": "do",
+  "tags": [
+    "Komplex",
+    "Tooltip",
+    "Scrollitelling"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-08 um 08.09.28.png"
+  ],
+  "title": "An interactive Visualisation of Every Line in Hamilton",
+  "description": "Verrückt und leicht überfordernd. Eine Visualisierung auf Speed, aber schön umgesetzt und mit netten Details wie einem schönem Tooltip und einem guten Highlight-by-scroll.",
+  "url": "http://polygraph.cool/hamilton/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Dashboard",
+    "Innovativ",
+    "Komplex"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-09 um 11.33.20.png",
+    "Bildschirmfoto 2017-03-09 um 11.34.03.png",
+    "Bildschirmfoto 2017-03-09 um 11.34.10.png"
+  ],
+  "title": "Dashboard Migration",
+  "description": "Sankey Diagramme sind immer nur eine Notlösung. Dieses gefällt mir aber verhältnismässig gut. Die Farbwahl und die Annotationen machen es deutlich besser lesbar.",
+  "url": "http://openmigration.org/en/dashboard/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Innovativ"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-09 um 11.35.54.png"
+  ],
+  "title": "Dashboard Migration",
+  "description": "Sowas hab ich bisher noch nie gesehen. Ich weiss nicht, ob ich es gut finde, aber es ist spannend.",
+  "url": "http://openmigration.org/en/dashboard/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Annotation"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-09 um 11.55.55.png"
+  ],
+  "title": "Weniger Asylbewerber in Berlin als vor der Flüchtlingskrise",
+  "description": "Ist das die schönste Annotation ever?",
+  "url": "http://interaktiv.morgenpost.de/woher-berlins-fluechtlinge-kommen/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-09 um 11.59.09.png"
+  ],
+  "title": "Es brennt in Deutschland",
+  "description": "Gelungene Farbwahl: Mehr ist schlechter, folglich grau zu rot. Man hätte auch mal versuchen können, die Balken ohne Verlauf einfach einzufärben.",
+  "url": "http://www.zeit.de/politik/deutschland/2015-11/rechtsextremismus-fluechtlingsunterkuenfte-gewalt-gegen-fluechtlinge-justiz-taeter-urteile"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Schönes Detail"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-09 um 12.11.11.png",
+    "Bildschirmfoto 2017-03-09 um 12.15.10.png"
+  ],
+  "title": "Where the 1,854 Syrian Refugees Admitted to the U.S. Since 2012 Were Placed",
+  "description": "Ich finde die Farben gut gewählt. Die Grösse der Kreise finde ich ebenfalls spannend dargestellt. Nämlich halbtransparent. Das macht die ganze Darstellung deutlich leichter. Das Balkendiagramm ist sanft unterteilt. Das macht die Daten schneller lesbar.",
+  "url": "https://www.nytimes.com/interactive/2015/10/21/us/where-syrian-refugees-are-in-the-united-states.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schönes Detail",
+    "Tooltip",
+    "Interaktion"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-09 um 12.17.00.png",
+    "Bildschirmfoto 2017-03-09 um 12.19.22.png"
+  ],
+  "title": "Wo Deutschland Flüchtlinge aufnimmt",
+  "description": "Das Sankey Diagramm sortiert sich neu nachdem man auf eine Quelle geklickt hat. Macht das ganze deutlich besser lesbar. Das Tooltip und das bei der Karte finde ich ausserdem sehr gelungen.",
+  "url": "http://interaktiv.morgenpost.de/fluechtlinge-in-deutschland/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Chord",
+    "Missverständlich"
+  ],
+  "images": [
+    "09-03-2017 17-04-44.png"
+  ],
+  "title": "Setzt die Schweiz das Dublin-Abkommen zu rigoros um?",
+  "description": "Superwichtige Geschichte, aber dieses Chord Diagramm ist leider grauenhaft lesbar. Wer macht wieviel wohin?",
+  "url": "http://www.swissinfo.ch/ger/migrationspolitik_setzt-die-schweiz-das-dublin-abkommen-zu-rigoros-um-/42948674"
+},
+{
+  "class": "do",
+  "tags": [
+    "Grosse Zahlen",
+    "Stepper"
+  ],
+  "images": [
+    "13-03-2017 10-12-02.png"
+  ],
+  "title": "Gun Deaths",
+  "description": "Wie visualisiert man grosse Zahlen eindrücklich? So.",
+  "url": "https://fivethirtyeight.com/features/gun-deaths/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktion"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-03-31 um 15.06.22.png",
+    "Bildschirmfoto 2017-03-31 um 15.06.36.png",
+    "Bildschirmfoto 2017-03-31 um 15.06.52.png"
+  ],
+  "title": "You Draw It: How Family Income – Predicts Children’s College Chances",
+  "description": "Cooles interaktives Stück, wo mit Erwartungen gespielt und diese dann aufgelöst werden. Ergebnisse sind eher erwartbar, aber gut umgesetzt.",
+  "url": "https://www.nytimes.com/interactive/2015/05/28/upshot/you-draw-it-how-family-income-affects-childrens-college-chances.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "linear",
+    "Storytelling",
+    "nachhaltig"
+  ],
+  "images": [
+    "24-04-2017 08-53-50.png",
+    "24-04-2017 08-54-30.png"
+  ],
+  "title": "Out of Sight, Out of Mind.",
+  "description": "In einer automatisch ablaufenden Animation werden alle Drohnen-Opfer in Pakistan visualisiert. Starkes Thema, stark umgesetzt.",
+  "url": "http://drones.pitchinteractive.com/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Karte",
+    "Grosse Datenmenge",
+    "linear"
+  ],
+  "images": [
+    "24-04-2017 09-27-40.jpg",
+    "24-04-2017 09-24-26.png",
+    "24-04-2017 09-24-18.jpg"
+  ],
+  "title": "Ship Map",
+  "description": "Eine krass detaillierte Karte, die man auf verschiedene Arten und Weisen selbst untersuchen kann oder sich von einem Talkie durchführen lassen kann.",
+  "url": "https://www.shipmap.org/"
+},
+{
+  "class": "do",
+  "tags": [
+    "simpel",
+    "Bild",
+    "Detail"
+  ],
+  "images": [
+    "12-05-2017 16-05-49.png"
+  ],
+  "title": "Let’s All Obsess Over This Intricate Map of Alt Music History",
+  "description": "Eine super Art, wie User ein einzelnes Bild erkunden können: Mit einer schön gelösten Lupe.",
+  "url": "https://www.wired.com/2016/10/lets-obsess-intricate-map-alt-music-history/?mbid=social_twitter"
+},
+{
+  "class": "do",
+  "tags": [
+    "interessante Darstellung",
+    "animation",
+    "Scrollitelling"
+  ],
+  "images": [
+    "15-06-2017 09-12-10.png",
+    "15-06-2017 09-12-31.png"
+  ],
+  "title": "Fenced out",
+  "description": "Sehr video-lastiges Scrollitelling mit schönen grafischen Elementen.",
+  "url": "https://www.washingtonpost.com/graphics/world/border-barriers/global-illegal-immigration-prevention/"
+},
+{
+  "class": "do",
+  "tags": [
+    "interessante Darstellung"
+  ],
+  "images": [
+    "15-06-2017 09-22-33.png"
+  ],
+  "title": "One Angry Bird",
+  "description": "Der Gefühlstzustand wird einerseits farblich, anererseits auf der y-Achse abgebildet, was zu interessanten Zeitverläufen führt. Die Darstellung ergibt eine schöne Form, die man so nich nie gesehen hat.",
+  "url": "http://emotions.periscopic.com/inauguration/"
+},
+{
+  "class": "do",
+  "tags": [
+    "interessante Darstellung",
+    "Gute Farbwahl",
+    "Algorithmus"
+  ],
+  "images": [
+    "15-06-2017 09-27-10.png",
+    "15-06-2017 09-29-44.png"
+  ],
+  "title": "Hamilton",
+  "description": "Ein Algorithmus untersucht Silben nach ihrem Laut und gruppiert und animiert sie nach Farbe und y-Position. Interessante Art, Sprache zu analysieren.",
+  "url": "http://graphics.wsj.com/hamilton/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schöne Karte",
+    "Scrollitelling",
+    "Zeitverlauf"
+  ],
+  "images": [
+    "15-06-2017 09-32-44.png",
+    "15-06-2017 09-34-07.png"
+  ],
+  "title": "Efforts to Rescue Migrants Caused Deadly, Unexpected Consequences",
+  "description": "Sehr detaillierte, schön gestaltete Karte. Drei aufeinanderfolgende Jahre erscheinen durch Scroll übereinander, wodurch man die Logik sehr gut versteht.",
+  "url": "https://www.nytimes.com/interactive/2017/06/14/world/europe/migrant-rescue-efforts-deadly.html?emc=edit_mbe_20170615&nl=morning-briefing-europe&nlid=79661173&te=1&_r=0"
+},
+{
+  "class": "dont",
+  "tags": [
+    "too much",
+    "unlesbar",
+    "überfordernd"
+  ],
+  "images": [
+    "15-06-2017 09-58-05.png"
+  ],
+  "title": "Interactive map showing global refugees flows from 2000 to 2015",
+  "description": "Oh wow, wo soll ich starten?",
+  "url": "https://explorables.cmucreatelab.org/explorables/annual-refugees/examples/webgl-timemachine/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Animation"
+  ],
+  "images": [
+    "15-06-2017 10-15-20.png",
+    "15-06-2017 10-17-23.png"
+  ],
+  "title": "1,000 times gold",
+  "description": "Schöne Tooltips, nett animiert per Scroll.",
+  "url": "https://www.washingtonpost.com/graphics/sports/olympics/the-1000-medals-of-the-united-states/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktion",
+    "Benutzerfreundlich"
+  ],
+  "images": [
+    "15-06-2017 10-31-42.png"
+  ],
+  "title": "Crime in Context",
+  "description": "Positiv fällt mir die erste Grafik auf. Einerseits bietet es per Button einige sinnvolle Optionen, andererseits kann man selbst die gewünschte Statistik / den gewünschten Ort auswählen, die Grafik passt sich animiert an. Durch Klick auf die Grafik wiederum, kann man ebenfalls die Auswahl oben steuern.",
+  "url": "https://www.themarshallproject.org/2016/08/18/crime-in-context"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Aufbauend"
+  ],
+  "images": [
+    "26-06-2017 08-41-51.png",
+    "26-06-2017 08-46-19.png"
+  ],
+  "title": "The Platinum Patients",
+  "description": "Hervorragende Übergänge machen dieses Scrollitelling zu einem wahren Vorbild in dieser Kategorie.",
+  "url": "https://www.theatlantic.com/theplatinumpatients/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Muster",
+    "R",
+    "Non-Interactive"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-07-11 um 17.41.10.png"
+  ],
+  "title": "Married People Have More Sex",
+  "description": "Eine durchaus schöne Art, Werte nebeneinander darzustellen und Tendenzen und Muster aufzuzeigen.",
+  "url": "http://flowingdata.com/2017/07/03/married-people-sex/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Kreis",
+    "Non-Interactive",
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-07-11 um 17.46.10.png"
+  ],
+  "title": "Why Are so Many Babies Born around 8:00 A.M.?",
+  "description": "Normale Balken- oder Liniendiagramme wären wohl verständlicher gewesen, aber die Anlehnung der Uhrzeit analog eines Stundenzeigers ist noch interessant.",
+  "url": "https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Gute Farbwahl",
+    "Performant"
+  ],
+  "images": [
+    "11-07-2017 17-52-24.png",
+    "11-07-2017 17-52-09.png",
+    "11-07-2017 17-53-21.png"
+  ],
+  "title": "Free Willy and Flipper by the Numbers",
+  "description": "Extrem schön erzähltes Scrollitelling, das einen stacked Barchart so animiert, dass man gut folgen kann. Selbst die interaktiven Charts sind extrem sauber gemacht.",
+  "url": "https://pudding.cool/2017/07/cetaceans/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Grosse Datenmenge",
+    "Schönes Tooltip",
+    "Durchsuchbar"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-07-12 um 17.24.01.png",
+    "Bildschirmfoto 2017-07-12 um 17.24.27.png",
+    "Bildschirmfoto 2017-07-12 um 17.27.34.png"
+  ],
+  "title": "Why the Republican Party wins when robots take your job",
+  "description": "Zwei interessante Wege eine grössere Liste an Daten anzuzeigen: Als Listen. Einmal integriert in ein Scatterplot, ein andermal als eine Art Small Multiples mit einem einfachen Balkendiagramm.",
+  "url": "https://pudding.cool/2017/07/jobs/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Durchsuchbar"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-07-12 um 17.32.12.png",
+    "Bildschirmfoto 2017-07-12 um 17.32.21.png",
+    "Bildschirmfoto 2017-07-12 um 17.32.54.png"
+  ],
+  "title": "Hier finden Sie Ihr Steuerparadies",
+  "description": "Ich wage fast zu sagen: Besser geht's nicht. Der User kann die Daten anhand seiner eigenen Person erkunden und sich sogar vergleichen. Sehr nütztlich und gut umgesetzt. Nettes Detail: Der direkte Aufruf, Fehler zu melden.",
+  "url": "http://interaktiv.tagesanzeiger.ch/2017/steuerbelastung/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Annotations",
+    "Illustration",
+    "Scrollitelling"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-07-12 um 17.36.04.png",
+    "Bildschirmfoto 2017-07-12 um 17.38.41.png",
+    "Bildschirmfoto 2017-07-12 um 17.39.28.png"
+  ],
+  "title": "Dead on arrival",
+  "description": "Brutales Thema – die Story wird diesem aber gerecht, zeigt die Brutalität auf, ohne voyeuristisch zu sein. Die Karte animiert sich während dem Scrollen und ist schön annotiert.",
+  "url": "http://fingfx.thomsonreuters.com/gfx/rngs/PHILIPPINES-DRUGWAR/010041TN3Z8/index.html"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Kompliziert",
+    "Falsche Visualisierung",
+    "Annotations"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-07-12 um 17.51.12.png",
+    "Bildschirmfoto 2017-07-12 um 17.54.29.png"
+  ],
+  "title": "Is Your Job About To Disappear?: QuickTake",
+  "description": "Absolut unlesbar: Wie sich ein Top-10-Ranking über die Jahre entwickelt hat. Man erkennt zwar, dass es die letzten Jahre mehr blaue (Service) Jobs waren in den Top 10, aber um das zu erkennen, braucht man relativ lange. Der Scatterplot unten ist ziemlich komplex, aber wenigstens gut annotiert.",
+  "url": "https://www.bloomberg.com/graphics/2017-jobs-automation-risk/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Gute Darstellung",
+    "Animation"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-07-12 um 18.00.47.png",
+    "Bildschirmfoto 2017-07-12 um 18.01.00.png"
+  ],
+  "title": "Fatal Traffic, When and Where",
+  "description": "Klares Muster, klare Aussage, gut aufgezeigt. Zusätzlich noch leicht konfigurierbar durch den User: Eine schnelle, runde Sache.",
+  "url": "http://flowingdata.com/2017/04/27/traffic-fatalities-when-and-where/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Small Multiples",
+    "Gute Farbwahl",
+    "Small Interactive"
+  ],
+  "images": [
+    "14-07-2017 11-45-34.png",
+    "Alone-time@2x.png"
+  ],
+  "title": "Alone Time",
+  "description": "Ein schönes, einfaches Beispiel von Small Multiples. Von Links nach Rechts und innerhalb eines Charts ergibt sich ein gut lesbares Muster. Zusätzlich kann man noch das Geschlecht selbst wählen.",
+  "url": "http://flowingdata.com/2017/06/26/alone-time/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Animation",
+    "Zeitlicher Verlauf",
+    "Karte"
+  ],
+  "images": [
+    "14-07-2017 11-43-15.png",
+    "14-07-2017 11-43-40.png"
+  ],
+  "title": "Watching the growth of Walmart",
+  "description": "Leider Flash, aber an sich interessant, klassischer Fall für einen zeitlichen Verlauf: Man kann von Auge zusehen wie etwas sich über die Zeit verändert.",
+  "url": "http://flowingdata.com/2010/04/07/watching-the-growth-of-walmart-now-with-100-more-sams-club/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Normalverteilung",
+    "Statisch"
+  ],
+  "images": [
+    "Sports-times-e1499836698848.png"
+  ],
+  "title": "Peak times for leisure and sports",
+  "description": "Wenn man die Normalverteilung von verschiedenen Kategorien darstellen möchte, ist das die schönstmögliche Art.",
+  "url": "http://flowingdata.com/2017/07/12/peak-times-for-leisure-and-sports/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Synchronisiert",
+    "Small Multiples",
+    "Small Interactives"
+  ],
+  "images": [
+    "14-07-2017 12-02-36.png",
+    "14-07-2017 12-04-57.png"
+  ],
+  "title": "President Trump’s 100 Days of Record-Low Approval Ratings",
+  "description": "Sehr sauber umgesetzt: Die Small Multiples sind miteinander verknüpft, sodass man alles ziemlich schnell erfassen kann.",
+  "url": "https://www.nytimes.com/interactive/2017/02/28/us/politics/the-highs-and-lows-of-trumps-approval.html?_r=0"
+},
+{
+  "class": "do",
+  "tags": [
+    "Timeline",
+    "Intro",
+    "Exploration"
+  ],
+  "images": [
+    "26-07-2017 09-48-44.png",
+    "26-07-2017 09-48-46.png",
+    "26-07-2017 09-52-39.png"
+  ],
+  "title": "Die Evolution des Webs",
+  "description": "Ganz schön abgespacete Timeline, aber irgendwie lustig und sehr explorativ. Das Intro ist völlig unnötig, aber ganz schön fancy.",
+  "url": "http://evolutionofweb.appspot.com/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gamification",
+    "Wissenschaft",
+    "Signifikanz"
+  ],
+  "images": [
+    "26-07-2017 10-00-30.png",
+    "26-07-2017 10-02-23.png"
+  ],
+  "title": "Science isn't broken",
+  "description": "Bastle dir deine Signifikanz aus Sicht der beiden grossen Parteien Amerikas. Je nachdem welche Daten man miteinrechnet, ist das Resultat «publizierbar» oder nicht. Witzige Art, ein sehr wissenschaftliches Thema aufzubereiten.",
+  "url": "https://fivethirtyeight.com/features/science-isnt-broken/#part1"
+},
+{
+  "class": "do",
+  "tags": [
+    "Wissenschaft",
+    "Neuronale Netze",
+    "Interactive"
+  ],
+  "images": [
+    "26-07-2017 10-04-49.png",
+    "26-07-2017 10-05-13.png"
+  ],
+  "title": "Tinker With a Neural Network",
+  "description": "Wie erklärt man neuronale Netze? Hier ein spielerischer Versuch.",
+  "url": "http://playground.tensorflow.org/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Network from hell",
+    "3D"
+  ],
+  "images": [
+    "26-07-2017 10-09-28.png",
+    "26-07-2017 10-09-11.png",
+    "26-07-2017 10-10-05.png"
+  ],
+  "title": "Cosmic Web",
+  "description": "Oh wow, völlig überforderndes Netzwerk, das man zwar durchstöbern kann, aber eigentlich auch wieder nicht sehr viel aussagt. Zumindest mir nicht.",
+  "url": "http://cosmicweb.barabasilab.com/viz/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Animation",
+    "Zeitverlauf",
+    "Gute Visualisierung"
+  ],
+  "images": [
+    "26-07-2017 11-14-08.png",
+    "ezgif-4-8256578aec.gif",
+    "26-07-2017 11-18-17.png"
+  ],
+  "title": "How Ebola Spreads",
+  "description": "Dank der Animation und der guten Darstellungsform erkennt man gut, wie sich Ebola von anderen Krankheiten unterscheidet. Die Grössenverhältnisse werden in der zweiten statischen Grafik sehr offensichtlich.",
+  "url": "http://www.washingtonpost.com/wp-srv/special/health/how-ebola-spreads/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Schönes Tooltip",
+    "Gute Visualisierung",
+    "Neuartige Visualisierung"
+  ],
+  "images": [
+    "26-07-2017 11-35-30.png",
+    "26-07-2017 11-37-30.png",
+    "26-07-2017 11-37-45.png",
+    "26-07-2017 11-38-02.png",
+    "26-07-2017 11-39-38.png"
+  ],
+  "title": "2016 Election Forecast",
+  "description": "Diese Kombination von Visualisierungen gibt in ihrer Gesamtheit ein unglaublich detailliertes Bild über die Vorherhsagen der Trump-Clinton Wahl. Auch wenn diese einen Sieg von Clinton vorhersagen – oder gerade deswegen – ist es sehr spannend, sich diese genauer anzusehen. Die jeweils gewählte Form der Visualisierung, ist äusserst durchdacht.",
+  "url": "https://projects.fivethirtyeight.com/2016-election-forecast/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Explorativ",
+    "Schöne Visualisierung",
+    "Interaction fail"
+  ],
+  "images": [
+    "ezgif-4-b955a83d6f.gif",
+    "26-07-2017 11-48-43.png",
+    "26-07-2017 11-49-48.png"
+  ],
+  "title": "What's your pay gap?",
+  "description": "Eigentlich ja ein netter Versuch, die Grafik per Maus erkundbar zu machen, aber völlig misslungen. Ohne Bewegung wäre alles viel besser bedienbar.",
+  "url": "http://graphics.wsj.com/gender-pay-gap/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Todesfälle",
+    "Waffen",
+    "Schöne Karte"
+  ],
+  "images": [
+    "26-07-2017 11-50-59.png",
+    "26-07-2017 11-52-05.png",
+    "26-07-2017 11-53-18.png"
+  ],
+  "title": "The math of mass shootings",
+  "description": "Wie wird man Opfern gerecht? Ein Ansatz: Sie nicht als Punkte oder Balken darstellen. So wird einem die Relevanz des Themas deutlich näher gebracht, als in einem Balkendiagramm.",
+  "url": "https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Storytelling",
+    "Spielerei",
+    "Animation"
+  ],
+  "images": [
+    "26-07-2017 11-57-20.png",
+    "ezgif-4-2b94a8e378.gif",
+    "26-07-2017 12-31-20.png",
+    "26-07-2017 12-32-14.png",
+    "26-07-2017 12-33-37.png",
+    "26-07-2017 12-35-03.png"
+  ],
+  "title": "The Migration Observatory",
+  "description": "Interessante Navigation über Fragen. Plus eine nette Spielerei im Hintergrund: Die gesamte Fläche ist mit verschiedenen einzelnen Datenpunkten hinterlegt. Gut, um die grosse Menge zu illustrieren. In der zweiten Hälfte (Migrants in the Census) kann man sehr detailliert Regionen betrachten und sogar vergleichen.",
+  "url": "http://seeingdata.cleverfranke.com/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Explorativ",
+    "Arbeitsmarktstatistik"
+  ],
+  "images": [
+    "26-07-2017 12-36-55.png",
+    "26-07-2017 12-37-22.png",
+    "26-07-2017 12-39-08.png"
+  ],
+  "title": "Track National Unemployment, Job Gains and Job Losses",
+  "description": "Indem man Werte unter null nach unten und über null nach oben stapelt ergibt sich ein interessantes Histrogramm. Farblich sehr schön gelöst.",
+  "url": "http://graphics.wsj.com/job-market-tracker/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktion",
+    "Prognosen",
+    "Gute Visualisierung"
+  ],
+  "images": [
+    "delegate-calc-1.gif",
+    "26-07-2017 14-23-09.png",
+    "26-07-2017 14-22-21.png"
+  ],
+  "title": "The Cold Hard Math of How Trump Can Win, and How Rubio Can Stop Him",
+  "description": "Interessante Visualisierungsform von verschiedenen Varianten, von denen man nicht weiss, welche eintreffen wird. Der User kann selbst eingreifen und die Ergebnisse beeinflussen.",
+  "url": "https://www.nytimes.com/interactive/2016/02/27/upshot/republican-delegate-calculator-how-trump-can-win.html?mcubz=0"
+},
+{
+  "class": "do",
+  "tags": [
+    "Annotations",
+    "Best Practice",
+    "Tool"
+  ],
+  "images": [
+    "02-08-2017 08-56-25.png"
+  ],
+  "title": "CSS usage on the web",
+  "description": "Nicht erschrecken, das ist für ein Mal keine journalistische Geschichte, sondern ein Tool, das aufzeigt, welche CSS-Eigenschaften auf wie vielen Seiten im Internet eingesetzt werden. Für CSS-Nutzer nicht uninteressant und ein schönes Detail überzeugt: Die Annotation der Balken ist unter 50% ausserhalb und über 50% innerhalb der Balken. Sehr elegant gelöst.",
+  "url": "https://developer.microsoft.com/en-us/microsoft-edge/platform/usage/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "tableau",
+    "performance",
+    "tools"
+  ],
+  "images": [
+    "05-09-2017 16-42-03.png",
+    "05-09-2017 16-43-21.png",
+    "05-09-2017 16-46-00.png"
+  ],
+  "title": "Word usage in sacred texts",
+  "description": "Eigentlich beeindruckend, was man mit diesem tableau alles anstellen kann, aber hier ist jeder Browser überfordert. Hover und Click Events brauchen mehrere Sekunden, was die an sich interessante Visualisierung praktisch unbrauchbar macht.",
+  "url": "https://public.tableau.com/views/WordUsageinSacredTextsWIP/Comparison"
+},
+{
+  "class": "do",
+  "tags": [
+    "Augenkrebs",
+    "Textvisualisierung",
+    "Interessante Darstellung"
+  ],
+  "images": [
+    "05-09-2017 16-54-54.png",
+    "05-09-2017 16-52-22.png",
+    "05-09-2017 16-50-57.png"
+  ],
+  "title": "Trumped – 100 days of tweets",
+  "description": "Wie zeige ich Muster in Text auf? Hier ein Versuch, den ich interessant finde. Die grosse Menge führt zwar dazu, dass meine Augen sich schlecht orientieren können und ein schimmern entsteht, aber ich finde, das Ganze hat Potential.",
+  "url": "http://samvickars.is/trumped/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interessante Darstellung",
+    "Gute Farbwahl",
+    "Komplex"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-09-07 um 21.05.37.png",
+    "Bildschirmfoto 2017-09-07 um 21.05.58.png",
+    "Bildschirmfoto 2017-09-07 um 21.06.04.png"
+  ],
+  "title": "Thirty years of Atlantic hurricanes",
+  "description": "Zwei Redaktionen, ein Thema, fast ein und dieselbe Grafik: Von oben nach unten werden die Jahre aufgelistet, von links nach rechts die Monate. Darauf verteilt sind die Stürme, die das Land heimsuchten. Die Grafik ist stark, weil sie zwar komplex ist, aber doch relativ schnell verstanden werden kann.",
+  "url": "https://www.axios.com/a-history-of-atlantic-hurricanes-2482247577.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interessante Darstellung",
+    "Gute Farbwahl",
+    "Komplex"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-09-07 um 21.10.16.png",
+    "Bildschirmfoto 2017-09-07 um 21.10.25.png"
+  ],
+  "title": "The Cost of Hurricane Harvey: Only One Recent Storm Comes Close",
+  "description": "Zwei Redaktionen, ein Thema, fast ein und dieselbe Grafik: Von oben nach unten werden die Jahre aufgelistet, von links nach rechts die Monate. Etwas gewöhnungsbedürftig sind die Halbkreise, die für die Kosten stehen, aber zwangsläufig auch auf der chronologischen Ebene links-rechts bzw. oben-unten stehen. Das kann verwirren.",
+  "url": "https://www.nytimes.com/interactive/2017/09/01/upshot/cost-of-hurricane-harvey-only-one-storm-comes-close.html"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Flash",
+    "Interessante Darstellung",
+    "Komplex"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-09-07 um 21.19.46.png",
+    "Bildschirmfoto 2017-09-07 um 21.19.35.png",
+    "Bildschirmfoto 2017-09-07 um 21.20.31.png"
+  ],
+  "title": "Notabilia – Visualizing Deletion Discussions on Wikipedia",
+  "description": "Wie stelle ich den Verlauf einer Diskussion dar? Hier ein Versuch, der zwar schön anzusehen ist, aber doch eigentlich unbrauchbar. Die beiden «Bäume» Kept und Deleted unterscheiden sich für den normalen Betrachter kaum. Der Erkenntnisgewinn ist praktisch gleich null.",
+  "url": "http://notabilia.net/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Kunst",
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-09-07 um 21.26.55.png",
+    "Bildschirmfoto 2017-09-07 um 21.27.16.png",
+    "Bildschirmfoto 2017-09-07 um 21.27.40.png"
+  ],
+  "title": "Sound as Color",
+  "description": "Ronnie Pence versucht auf eine neue Art und Weise, Musik als Grafik darzustellen. Was dabei herauskommt, ist visuell ansprechend und fasziniert. Schade, dass man nicht direkt auf der Seite die Musik im Original hören kann.",
+  "url": "http://object-object.com/work/soundascolor"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Animation"
+  ],
+  "images": [
+    "nyGMPFDiuv.gif",
+    "Bildschirmfoto 2017-09-07 um 21.34.41.png",
+    "Bildschirmfoto 2017-09-07 um 21.35.20.png"
+  ],
+  "title": "She Giggles, He Gallops",
+  "description": "Ein weiteres kleines Meisterwerk von Pudding. Nichts sehr auffälliges, aber ein interessantes Thema perfekt umgesetzt.",
+  "url": "https://pudding.cool/2017/08/screen-direction/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Witzig",
+    "Simpel",
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-09-07 um 12.59.41.png",
+    "Bildschirmfoto 2017-09-07 um 13.02.01.png"
+  ],
+  "title": "Von wegen Berlin – Klischees im Datencheck",
+  "description": "Kennt ihr die MythBusters noch? Adam Savage und Jamie Hyneman überprüfen darin Sprichwörter und Urban Myths auf ihren Wahrheitsgehalt. Ich habe es geliebt. Und so liebe ich auch die datenjournalistische Version der Berliner Morgenpost. Sehr simpel, aber immer wieder interessant.",
+  "url": "https://interaktiv.morgenpost.de/staedtevergleich/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktiv",
+    "Explainer",
+    "Augenkrebs"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-09-07 um 21.48.08.png",
+    "Bildschirmfoto 2017-09-07 um 21.50.09.png",
+    "Bildschirmfoto 2017-09-07 um 21.50.40.png"
+  ],
+  "title": "How americans die",
+  "description": "Wenn man im Lexikon «Explainer» sucht, könnte da dieser Link stehen. Ein Musterbeispiel wie man einen einzigen Datensatz schrittweise sezieren kann. Leider sind die vielen knalligen Farben auf so grossen Flächen zwischenzeitlich etwas überfordernd. Ansonsten: Sehr gut gemacht.",
+  "url": "https://www.bloomberg.com/graphics/dataview/how-americans-die/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Multimedia",
+    "Interaktion",
+    "Annotations"
+  ],
+  "images": [
+    "Bildschirmfoto 2017-09-07 um 22.01.42.png",
+    "Bildschirmfoto 2017-09-07 um 22.11.04.png",
+    "Bildschirmfoto 2017-09-07 um 22.11.33.png"
+  ],
+  "title": "The dark side of Guardian comments",
+  "description": "Mit der grossen Kelle angerührt, aber gelungen: Die Geschichte über Kommentare beim Guardian und was das Geschlecht des Schreibenden damit zu tun hat. Grafisch sehr schön gelöst, ergänzt mit starken Videos und interaktiven Elementen. Eine runde Sache!",
+  "url": "https://www.theguardian.com/technology/2016/apr/12/the-dark-side-of-guardian-comments"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktiv",
+    "Strukturierte Daten",
+    "Nachhaltig"
+  ],
+  "images": [
+    "27-09-2017 11-53-04.png",
+    "27-09-2017 11-53-34.png",
+    "27-09-2017 11-54-52.png"
+  ],
+  "title": "100 days of Trump claims",
+  "description": "Die Washington Post versucht minutiös, alle Behauptungen von Trump zu überprüfen und sammelt die Ergebnisse auf dieser Seite. Interessant visualisiert und gut durchsuchbar ist es ein gutes Beispiel, wie man strukturierte Daten erheben und sie präsentieren kann.",
+  "url": "https://www.washingtonpost.com/graphics/politics/trump-claims/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Dossier",
+    "Strukturierte Daten",
+    "Nachhaltig",
+    "Offene Recherche"
+  ],
+  "images": [
+    "27-09-2017 12-56-39.png",
+    "27-09-2017 12-57-13.png",
+    "27-09-2017 13-04-57.png",
+    "27-09-2017 12-58-10.png"
+  ],
+  "title": "Here’s what we know so far about Team Trump’s ties to Russian interests",
+  "description": "Immer wieder frage ich mich, wie man laufende Ereignisse zu einem Themendossier zusammenfassen kann. Dies ist eine hervorragende Variante. Jede Verbindung zwischen zwei Personen ist mit vielen Quellen hinterlegt und die ganze Seite wird laufend erweitert mit den neusten Erkenntnissen. Vorbildlich.",
+  "url": "https://www.washingtonpost.com/graphics/national/trump-russia/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Karte",
+    "Reduziert",
+    "Grafisch"
+  ],
+  "images": [
+    "27-09-2017 13-03-59.png",
+    "27-09-2017 13-04-21.png",
+    "27-09-2017 13-04-39.png"
+  ],
+  "title": "The Stories Behind a Line",
+  "description": "Die Fluchtwege von 6 Flüchtenden visualisiert. Auf einer Karte und als Chart. Etwas schwer zu lesen und etwas sehr abstrakt, aber sehr ausführlich und elegant dargestellt.",
+  "url": "http://www.storiesbehindaline.com/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Annotationen",
+    "Audio"
+  ],
+  "images": [
+    "27-09-2017 13-10-11.png",
+    "27-09-2017 13-11-01.png",
+    "27-09-2017 13-11-40.png",
+    "27-09-2017 13-12-26.png"
+  ],
+  "title": "Hip-Hop Is Turning On Donald Trump",
+  "description": "FiveThirtyEight findet ihr eine interessante Herangehensweise an das Thema der Präsidentschaftswahl. Wie immer optisch perfekt aufbereitet. Besonders gefallen mir die Zusatzinfos, die sich beim Mouse-Over eines Kreises zeigen.",
+  "url": "https://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Wenig beachtetes Thema"
+  ],
+  "images": [
+    "27-09-2017 13-50-11.png",
+    "27-09-2017 13-51-53.png",
+    "ezgif-4-33df0a8c76.gif"
+  ],
+  "title": "Delhi Dowry Bazaar",
+  "description": "Ein heikles gesellschaftliches Thema auf eine eindrückliche Art und Weise aufgearbeitet. Durch das starke Zitat am Anfang erhält die sonst sehr abstrakt gehaltene Visualisierung eine neue Bedeutung.",
+  "url": "http://www.hindustantimes.com/interactives/delhi-dowry-bazaar/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Annotationen"
+  ],
+  "images": [
+    "27-09-2017 14-06-35.png",
+    "27-09-2017 14-07-16.png",
+    "27-09-2017 14-06-59.png"
+  ],
+  "title": "Bias, she wrote",
+  "description": "Wie immer bei Pudding: Extrem sauber umgesetzte Geschichte, perfekt visualisiert. Besonders die Balkengrafik gefällt mir gut. Über die vielen Balken lässt sich ein klarer Trend erkennen, die ausserdem vorbildlich mit Zusatzinformationen annotiert sind.",
+  "url": "https://pudding.cool/2017/06/best-sellers/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Zeitstrahl",
+    "Annotationen",
+    "Erklärstück"
+  ],
+  "images": [
+    "27-09-2017 14-17-06.png",
+    "27-09-2017 14-18-00.png",
+    "27-09-2017 14-18-31.png"
+  ],
+  "title": "A new dawn",
+  "description": "Die Beziehung der Länder Süd- und Nordkorea anhand der Anzahl Treffen visualisiert. Eine gelungene Darstellung für eine lange Zeit.",
+  "url": "http://fingfx.thomsonreuters.com/gfx/rngs/INTERKOREA-RELATIONS/010041MD3JB/index.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Erklärstück",
+    "Scrollitelling",
+    "Vielseitig"
+  ],
+  "images": [
+    "27-09-2017 14-21-50.png",
+    "27-09-2017 14-22-49.png",
+    "27-09-2017 14-23-05.png",
+    "27-09-2017 14-23-28.png"
+  ],
+  "title": "Rocket Science",
+  "description": "Die Nordkorea-Serie von Thomson Reuters hat noch mehr zu bieten. Ein solides Scrollitelling, das ergänzt ist mit gut erklärenden Illustrationen und Fotos.",
+  "url": "http://fingfx.thomsonreuters.com/gfx/rngs/NORTHKOREA-MISSILES/010041L63FE/index.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interessante Visualisierung",
+    "Animation",
+    "Zeitreihe"
+  ],
+  "images": [
+    "2017-11-17 16_51_12.gif",
+    "27-09-2017 14-27-54.png",
+    "27-09-2017 14-28-24.png"
+  ],
+  "title": "The Rhythm of Food",
+  "description": "Sehr exloratives Stück von Alberto Cairo et alii. Wunderschön anzusehen, technisch natürlich perfekt umgesetzt. Ob es auch demokratierelevant ist, sei dahingestellt.",
+  "url": "http://rhythm-of-food.net/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "az_medien_01.jpg"
+  ],
+  "title": "Die Gipf-Oberfricker sind Abo-Meister",
+  "description": "Das ist die vielleicht schlechteste Farbskala, die ich je gesehen habe. Rot wird über Blau zu grün. Intuitiv liest man rot als «viel», es steht aber für wenig. Für Farbenblinde unleserlich, aber selbst für normal sehende eine Herausforderung. Schade.",
+  "url": "https://www.aargauerzeitung.ch/aargau/fricktal/die-gipf-oberfricker-sind-abo-meister-131771093"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktion",
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "06-10-2017 16-34-45.png",
+    "06-10-2017 16-35-05.png",
+    "06-10-2017 16-36-33.png"
+  ],
+  "title": "Craft beer — so hot right now. But what city is the microbrew capital of the US?",
+  "description": "Der drehbare scatter plot ist eine Neukreation von Pudding.cool und eine sehr gelungene. Der User kann seine eigene Priorität anwenden. Die Bedienung ist intuitiv und macht Spass.",
+  "url": "https://pudding.cool/2017/04/beer/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Personalisierung",
+    "Optimale Darstellungsform",
+    "Open Data"
+  ],
+  "images": [
+    "06-10-2017 17-13-15.png"
+  ],
+  "title": "London household spending outstrips the rest of the UK",
+  "description": "Kompakte Darstellung, gut sortiert: Von links nach rechts wirds immer teurer und von oben nach unten auch. Das macht die Visualisierung rasch verständlich und übersichtlich. Die simplifizierten Regionen als Kästchen sind nett (Tooltips wären hilfreich). Weiteres Plus: Die ganze Grafik steht als iFrame zum selber einbetten zur Verfügung.",
+  "url": "http://visual.ons.gov.uk/london-household-spending-outstrips-the-rest-of-the-uk/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Unnütz",
+    "Überfrachtet",
+    "3D"
+  ],
+  "images": [
+    "06-10-2017 17-21-30.png"
+  ],
+  "title": "Mapping the Flow of International Trade",
+  "description": "What does this map tell us? Diese Frage stellt der Autor gleich selbst in seinem Artikel und das frage ich mich auch. Es erschliesst sich dem Betrachter nämlich nicht ohne weiteres.",
+  "url": "http://metrocosm.com/map-international-trade/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Animation",
+    "Zeitreihe"
+  ],
+  "images": [
+    "06-10-2017 17-42-37.png",
+    "06-10-2017 17-43-00.png",
+    "06-10-2017 17-43-43.png"
+  ],
+  "title": "Global Gender Gap Report",
+  "description": "Ich mag es, wenn Entwicklungen innerhalb einer Rangliste auf der x-Achse aufgezeigt werden. Ansonsten ist das Stück eher überfordernd. Die kleine Schrift und das Design, das sich auf alle Seiten ausbreitet schrecken eher ab.",
+  "url": "http://projects.two-n.com/world-gender/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Anders",
+    "Dekorativ",
+    "Schwarzweiss"
+  ],
+  "images": [
+    "06-10-2017 17-52-47.png",
+    "06-10-2017 17-51-43.png",
+    "06-10-2017 17-52-03.png"
+  ],
+  "title": "Beautiful in English",
+  "description": "Sehr dekorativ, aber schön gemacht. Ein durchaus interessantes Thema mit vielen Daten völlig anders aufbereitet, als man es von den meisten anderen Datenvisualisierungen kennt.",
+  "url": "http://www.beautifulinenglish.com/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Grafisch",
+    "Schwarzweiss"
+  ],
+  "images": [
+    "06-10-2017 17-58-20.png",
+    "06-10-2017 17-57-51.png",
+    "06-10-2017 17-59-17.png",
+    "06-10-2017 18-00-38.png"
+  ],
+  "title": "Europa Dreaming",
+  "description": "Diese Seite hat zurecht einen Design-Preis gewonnen. Die Ästhetik des schwarzweiss-Kopierers geschickt aufgenommen und auf die Karte adaptiert. Nur von sorgfältig eingesetztem Gelb gebrochen, zieht sich das Konzept durch alles durch. Bilder, Videos und Grafiken ergänzen sich optimal.",
+  "url": "http://europadreaming.eu/en/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Alternative Darstellung",
+    "Karte",
+    "Hohe Informationsdichte"
+  ],
+  "images": [
+    "23-10-2017 08-49-29.png",
+    "23-10-2017 08-50-55.png",
+    "23-10-2017 08-51-38.png"
+  ],
+  "title": "How Trump redrew the electoral map, from sea to shining sea",
+  "description": "Die Karte zeichnet ein sehr detailliertes Bild. Mehrere Datenpunkte werden dargestellt, doch den Autoren gelingt es, den Betrachter damit nicht zu überfordern.",
+  "url": "https://www.washingtonpost.com/graphics/politics/2016-election/election-results-from-coast-to-coast/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Tooltips",
+    "Small Multiples"
+  ],
+  "images": [
+    "23-10-2017 09-16-31.png",
+    "23-10-2017 09-16-52.png",
+    "23-10-2017 09-17-52.png"
+  ],
+  "title": "How popular is Donald Trump?",
+  "description": "Nichts aufregendes, aber wie fast immer bei FiveThirtyEight sehr gut umgesetzt. Die Small Multiples sind verlinkt miteinander",
+  "url": "https://projects.fivethirtyeight.com/trump-approval-ratings/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Innovative Darstellung",
+    "Schöne Annotationen"
+  ],
+  "images": [
+    "2uWX4VMUw0.gif",
+    "Bildschirmfoto 2017-11-09 um 08.33.25.png",
+    "Bildschirmfoto 2017-11-09 um 08.35.29.png"
+  ],
+  "title": "The Most Popular of Them All: a look at fanfiction’s favorite ships",
+  "description": "Viele nette Details machen dieses Stück zu einem interessanten Vorbild: Heatmaps werden kombiniert zu einem Histogramm. Die annotierten Zählchen sind schick und reduziert, die Illustrationen und Filmchen machen das Ganze auch für nicht-Nerds attraktiv und auch die Annotationen sind gut gelöst. Sie werden in einer freien Fläche und immer am selben Ort dargestellt.",
+  "url": "http://sxywu.com/hpff/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Open Source",
+    "Schöne Annotationen",
+    "Interessante Darstellung"
+  ],
+  "images": [
+    "f95KBPxdCy.gif",
+    "Bildschirmfoto 2017-11-09 um 09.59.50.png",
+    "Bildschirmfoto 2017-11-09 um 10.00.12.png"
+  ],
+  "title": "All Olympic Gold Medal Winners",
+  "description": "Ganz schön verrückt, was hier alles zusammenkommt: Die Kreise sind untereinander verlinkt (z.B. Highlighting von Jahresringen), die Annotationen sind extrem schön gelöst und die eigentlich hochkomplexe Darstellung überfordert den Betrachter nicht. Was das ganze noch interessanter macht: Der gesamte [Code](https://github.com/nbremer/datasketches/tree/gh-pages/august/code/nadieh) ist öffentlich.",
+  "url": "http://www.datasketch.es/august/code/nadieh/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Neuartige Darstellung",
+    "Explorativ",
+    "Viel Information auf wenig Raum"
+  ],
+  "images": [
+    "17-11-2017 09-37-39.png",
+    "17-11-2017 09-38-36.png",
+    "17-11-2017 09-39-03.png"
+  ],
+  "title": "Die Politlandschaft Schweiz",
+  "description": "Erst duch Klick auf eine Partei eröffnet sich dem Betrachter eine interessante Schweizer Berglandschaft. Nämlich eine nach Parteien. Je höher der Berg bzw. die Linie desto höher der Wähleranteil in der Region. Nun kann man sich darüber unterhalten, wie gut man das lesen kann und wie präzise es ist, schön und interessant ist es allemal. Insgesamt ist das Stück durch die verschiedenen Modi (Kantone / Parteien) vielleicht etwas überfrachtet.",
+  "url": "https://interaktiv.tagesanzeiger.ch/2015/political-landscape/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interessante Darstellung",
+    "Gute Annotationen",
+    "Mike Bostock"
+  ],
+  "images": [
+    "17-11-2017 09-43-20.png",
+    "17-11-2017 09-42-44.png"
+  ],
+  "title": "A Chicago Divided by Killings",
+  "description": "Zahlen werden meist dann interessant, wenn man zwei Aspekte kombiniert. Das ist auf dieser Karte der Fall: Der Betrachter sieht rasch, dass zwischen den blauen Flächen, wo mehr Schwarze als Weisse leben, und die Heatmap aus orangenen Kreisen ein Zusammenhang besteht. Die grösse der Kreise steht für die Anzahl Morde an jenem Ort. Die Karte ist übrigens von Mike Bostock höchstpersönlich, dem Autor von d3.",
+  "url": "http://www.nytimes.com/interactive/2013/01/02/us/chicago-killings.html"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktiv",
+    "Gute Darstellung",
+    "Witziges Thema"
+  ],
+  "images": [
+    "17-11-2017 09-48-19.png",
+    "17-11-2017 09-48-03.png",
+    "17-11-2017 09-49-44.png"
+  ],
+  "title": "Überall Berge – ausser in den Alpen",
+  "description": "Flurnamen – was für ein nerdiges Thema. Hier aber sehr massentauglich aufbereitet. Die Heatmap aus Sechsecken ist die richtige Darstellungsform, die mir persönlich sehr gefällt. Dass man eigene Suchen durchführen kann und das auch noch mit regulären Ausdrücken (Regex) ist richtig nerdig, aber auch richtig cool. Einziger Kritikpunkt: Ich hätte wohl eher ein grau verwendet als ein hellblau für Sechsecke mit dem Wert 0.",
+  "url": "https://blog.tagesanzeiger.ch/datenblog/index.php/11390/die-haeufigsten-ortsnamensendungen-in-der-schweiz"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Farbwahl",
+    "Interssante Darstellung",
+    "Open Source"
+  ],
+  "images": [
+    "17-11-2017 09-56-05.png",
+    "17-11-2017 09-55-40.png",
+    "17-11-2017 09-56-33.png"
+  ],
+  "title": "Teams' Combined Win and Loss Record Before Every NBA Game",
+  "description": "Ich habe nach 10 Minuten immer noch nicht 100 Prozent verstanden, was ich da sehe, aber es ist visuell einfach verdammt interessant. Wer mir erklären kann, warum die obere Hälfte und die untere Hälfte nicht symmetrisch sind, kriegt ein Bier von mir.",
+  "url": "https://roadtolarissa.com/nba-win-loss/"
+},
+{
+  "class": "dont",
+  "tags": [
+    "Verwirrend",
+    "Gute Farbwahl",
+    "Intersesante Darstellung"
+  ],
+  "images": [
+    "17-11-2017 10-04-18.png",
+    "17-11-2017 10-05-16.png",
+    "17-11-2017 10-02-22.png"
+  ],
+  "title": "Minute by Minute Point Differentials of 2015 NBA Games",
+  "description": "Für mich ist hier die Grenze der Lesbarkeit leider unterschritten. Nach langer Betrachtung, stelle ich fest: Ein Punkt ist ein Match. Jede Spalte beinhaltet jedes Spiel der Saison. Jede Spalte steht für eine Spielminute und die y-Position des Kreises für den Vorsprung oder Rückstand in Punkten. So interessant ich die Darstellung auch finde, so frage ich mich, für welches Publikum sie gemacht wurde.",
+  "url": "https://roadtolarissa.com/nba-minutes/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interessante Darstellung",
+    "Hohe Informationsdichte",
+    "Explorativ"
+  ],
+  "images": [
+    "17-11-2017 10-14-18.png",
+    "17-11-2017 10-14-47.png"
+  ],
+  "title": "Who marries whom",
+  "description": "Man ist verführt, im ersten Moment zu sagen: Das ist zu kompliziert. Aber wenn man sich überlegt, dass hier doch tatsächlich 473 Berufe dargestellt sind und jeder Beruf wiederum zu jedem Beruf (inkl. sich selbst) eine Beziehung haben kann, sind wir schon bei 223'729 Beziehungen, die hier dargestellt werden. Und das auf einen Blick (mehr oder weniger). Das finde ich in der Tat beeindruckend kompakt. Auf einem Smartphone-Screen hat das dann halt keinen Platz mehr.",
+  "url": "https://www.bloomberg.com/graphics/2016-who-marries-whom/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Gute Annotationen",
+    "Animation",
+    "Schöne Details"
+  ],
+  "images": [
+    "17-11-2017 11-13-47.png",
+    "ezgif-4-b8bfc2ae19.gif",
+    "17-11-2017 11-14-12.png"
+  ],
+  "title": "March Madness Makers and Takers",
+  "description": "Dieses Stück darf in dieser Sammlung nicht fehlen, weil es nichts Spektakuläres, sondern eine Sammlung von gut bekannten Darstellungsformen ist, aber sehr schön umgesetzt. Die vielen Annotationen bringen Tiefe in das Ganze und die gewählte Darstellungsform ist stets die passende. Zum Beispiel die Punktgrafik, die auf der x-Achse kategorische, auf der y-Achse kontinuierliche Daten mit kleinen Rechtecken zeigt.",
+  "url": "https://www.bloomberg.com/graphics/2015-march-madness-basketball-fund/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Animation",
+    "Lineares Storytelling"
+  ],
+  "images": [
+    "17-11-2017 11-24-41.png",
+    "ezgif-4-f4ef4aff4b.gif",
+    "17-11-2017 11-22-09.png"
+  ],
+  "title": "What's really warming the world?",
+  "description": "Wenn man User in eine lineare Rezipion zwingt indem man mit Scrollitelling arbeitet, sollte das wohlüberlegt sein. Dieses Beispiel ist es! Optisch kommt es ruhig und reduziert daher (im Vergleich zu vielen anderen Scrollitellings) und der schrittweise Aufbau der Argumentation ist stringent und macht Sinn.",
+  "url": "https://www.bloomberg.com/graphics/2015-whats-warming-the-world/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Open Source",
+    "Interessante Darstellung",
+    "Karte"
+  ],
+  "images": [
+    "17-11-2017 11-29-29.png",
+    "17-11-2017 11-29-01.png"
+  ],
+  "title": "Population Division",
+  "description": "Mal kurz auf unter 200 Zeilen Code eine sehr nice Darstellung der Welt (vom Cover «Unknown Pleasures» von Joy Division inspiriert) schreiben? Wieso nicht. Adam Pearce macht das rasch für uns. Sehr beeindruckend.",
+  "url": "https://roadtolarissa.com/population-division/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interessante Darstellung",
+    "Gute Farbwahl",
+    "Innovative Methoden"
+  ],
+  "images": [
+    "17-11-2017 11-47-20.png",
+    "17-11-2017 11-44-45.png",
+    "17-11-2017 11-45-33.png",
+    "ezgif-4-2ab79d3bf6.gif"
+  ],
+  "title": "What the street?",
+  "description": "Das ist etwas vom komplexesten, was ich je gesehen habe. Das Onboarding ist gleichzeitig extrem gut gelöst. Hut ab. Sehr beeindruckendes Projekt.",
+  "url": "https://whatthestreet.moovellab.com/stuttgart"
+},
+{
+  "class": "do",
+  "tags": [
+    "Interaktion",
+    "Animation",
+    "Gute Farbwahl"
+  ],
+  "images": [
+    "17-11-2017 12-37-34.png",
+    "ezgif-4-6fa068d397.gif",
+    "ezgif-4-8e27e06396.gif",
+    "17-11-2017 12-39-47.png"
+  ],
+  "title": "Stadt, Land, Vorurteil",
+  "description": "Ein politisch hochrelevantes Thema auf eine unterhaltsame Art und Weise umgesetzt. Ob die Animation zu Beginn nötig ist oder eher der Show dient, sei dahingestellt, aber danach wird dem Besucher der Inhalt optimal vermittelt. Mittels Quiz kann man seine eigenen Vorurteile gegenüber Vorurteilen überprüfen und lernt etwas über unsere Gesellschaft.",
+  "url": "www.zeit.de/feature/deutsche-bevoelkerung-stadt-land-unterschiede-vorurteile"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Investigativ",
+    "Karte"
+  ],
+  "images": [
+    "17-11-2017 12-41-42.jpg",
+    "17-11-2017 12-42-02.png"
+  ],
+  "title": "Irrsinn der Agrarpolitik",
+  "description": "Ein starkes Stück Recherche. Die Beweisführung mittels Karten funktioniert. Die Idee, die Karte streckenweise zu maximieren, um dann wieder einen längeren Text zu zeigen, gefällt mir. Es bringt einen Rhythmus in die Geschichte. Die Farben bzw. die Mischung aus Sechsecken und farbigen Punkten, hätte man eventuell noch eleganter machen können.",
+  "url": "correctiv.org/recherchen/wirtschaft/artikel/2017/06/13/agrar-subventionen-massentierhaltung-ammoniak-nitrat/"
+},
+{
+  "class": "do",
+  "tags": [
+    "Scrollitelling",
+    "Interessante Darstellung",
+    "Schöne Annotationen"
+  ],
+  "images": [
+    "17-11-2017 12-51-10.png",
+    "ezgif-4-592d6e7720.gif",
+    "launchangle_swing.gif"
+  ],
+  "title": "These days in baseball, every batter is trying to find an angle",
+  "description": "Was für eine Heatmap! Warum nicht, die grösse der Sechsecke und die Farbe beide zur Encodierung der Hitze benutzen. Gute Idee, sehr schön umgesetzt.",
+  "url": "https://www.washingtonpost.com/graphics/sports/mlb-launch-angles-story/"
+}]

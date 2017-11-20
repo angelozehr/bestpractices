@@ -40,20 +40,12 @@ const tagsStyle = css({
   }
 })
 
-const buttonStyle = css({
+const linkStyle = css({
+  paddingTop: 15,
   display: 'inline-block',
-  backgroundColor: '#444',
-  padding: '5px 10px',
-  borderWidth: 2,
-  borderRadius: 3,
-  color: '#FFF',
-  textDecoration: 'none',
-  textTransform: 'uppercase',
-  fontSize: 10,
-  letterSpacing: 2,
-  '&:hover': {
-    backgroundColor: '#333'
-  }
+  color: '#999',
+  fontSize: 14,
+  textDecoration: 'none'
 })
 
 class Example extends PureComponent {
@@ -66,7 +58,7 @@ class Example extends PureComponent {
   render () {
     const {data} = this.props
     const images = data.images.sort(this.gifsFirst).map(image => encodeURIComponent(image))
-
+    const urlParts = data.url.split('/')
     return (
       <div className={cardStyle}>
         <figure
@@ -75,6 +67,9 @@ class Example extends PureComponent {
           onClick={() => { this.props.openInLightbox(images) }}
         />
         <section className={infosStyle}>
+          <a className={linkStyle} href={data.url} target='_blank' title={data.title}>
+            {`${urlParts[0]}//${urlParts[2]}`}
+          </a>
           <h3>{data.title}</h3>
           <article dangerouslySetInnerHTML={{__html: marked(data.description)}} />
           <ul className={tagsStyle}>
@@ -82,10 +77,6 @@ class Example extends PureComponent {
               <li key={`li-${i}`}>{tag}</li>
             ))}
           </ul>
-          <br />
-          <a className={buttonStyle} href={data.url} target='_blank' title={data.title}>
-            Zur Seite
-          </a>
         </section>
       </div>
     )
